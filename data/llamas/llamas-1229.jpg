@@ -1,0 +1,412 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+	<link rel="shortcut" href="http://watchiclake.org/wp-content/uploads/2014/03/default-thumb.jpg" type="image/x-icon" />
+<link rel="shortcut icon" href="http://watchiclake.org/wp-content/uploads/2014/03/default-thumb.jpg" type="image/x-icon" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=4.0, user-scalable=yes" />	<link rel="alternate" type="application/rss+xml" title="Watchic Lake Association RSS2 Feed" href="http://watchiclake.org/feed/" />
+	<link rel="pingback" href="http://watchiclake.org/xmlrpc.php" />
+	<title>Page not found | Watchic Lake Association</title>
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/watchiclake.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css'  href='http://watchiclake.org/wp-content/plugins/responsive-lightbox/assets/swipebox/css/swipebox.min.css?ver=1.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-menu-css'  href='http://watchiclake.org/wp-content/plugins/responsive-menu-data/css/responsive-menu-1.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-global-css'  href='http://watchiclake.org/wp-content/themes/ultimatum/assets/css/theme.global.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='ult_core_template_1-css'  href='http://watchiclake.org/wp-content/uploads/watchic-responsive/template_1.css?ver=4.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='template_custom_1-css'  href='http://watchiclake.org/wp-content/uploads/watchic-responsive/template_custom_1.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://watchiclake.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://watchiclake.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://watchiclake.org/wp-content/plugins/responsive-lightbox/assets/swipebox/js/jquery.swipebox.min.js?ver=1.6.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":"1","animation":"1","hideCloseButtonOnMobile":"0","removeBarsOnMobile":"0","hideBars":"1","hideBarsDelay":"5000","videoMaxWidth":"1080","useSVG":"1","loopAtEnd":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://watchiclake.org/wp-content/plugins/responsive-lightbox/js/front.js?ver=1.6.8'></script>
+<script type='text/javascript' src='//cdn.jsdelivr.net/holder/1.9.0/holder.js?ver=1.9.0'></script>
+<link rel='https://api.w.org/' href='http://watchiclake.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://watchiclake.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://watchiclake.org/wp-includes/wlwmanifest.xml" /> 
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+			<link href='https://fonts.googleapis.com/css?family=Alegreya:700|Open+Sans:400,700,700italic,400italic|Roboto+Condensed:400,700' rel='stylesheet' type='text/css'>
+	<script type="text/javascript">
+//<![CDATA[
+var pptheme = 'facebook';
+//]]>
+</script>	 
+</head>
+<body class="error404  ut-tbs3-default ut-layout-default-layout">
+<div class="clear"></div>
+<header class="headwrapper">
+<div class="ult-wrapper wrapper " id="wrapper-4">
+
+<div class="ult-container  container " id="container-4">
+<div class="row">
+		<div class="ult-column col-md-4 " id="col-4-1">
+			<div class="colwrapper"><div id="logo-container"><h1><a href="http://watchiclake.org" class="logo"><img src="http://watchiclake.org/wp-content/uploads/2016/02/watchic-lake-loon.png" alt="Watchic Lake Association" class="img-responsive"/></a></h1></div><div class="widget widget_text inner-container"> <h3 class="element-title">Watchic Lake Association</h3>			<div class="textwidget"></div>
+		</div></div>
+		</div>
+		<div class="ult-column col-md-8 " id="col-4-2">
+			<div class="colwrapper"><div class="hidden-phone widget widget_ultimatumsearch inner-container"><form role="search" class="form-search" method="get" id="searchform" action="http://watchiclake.org/" ><input type="search" placeholder="SEARCH" value="" name="s" id="s" /><button class="btn">SUBMIT</button></form></div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-3">
+
+<div class="ult-container  container " id="container-3">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-3-1">
+			<div class="colwrapper"><div class="widget widget_ultimatummenu inner-container"><script type="text/javascript">
+	//<![CDATA[
+	jQuery(document).ready(function($) {
+				ddsmoothmenu.init({
+			mainmenuid: "ultimatummenu-2-item",
+			orientation: 'h',
+			classname: 'ddsmoothmenuh',
+			contentsource: "markup"
+		})
+	});
+	//]]>
+</script>
+<style>.ddsmoothmenuh ul {float: left;}</style>
+<div class="ultimatum-nav">
+<div class=" ddsmoothmenuh" id="ultimatummenu-2-item">
+	<ul id="menu-menu-1" class="menu"><li id="menu-item-1874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1874"><a href="http://watchiclake.org/">Home</a></li>
+<li id="menu-item-1563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1563"><a href="#">About Watchic Lake</a>
+<ul class="sub-menu">
+	<li id="menu-item-1602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1602"><a href="http://watchiclake.org/about-watchic-lake/watchic-lake-overview/">Overview</a></li>
+	<li id="menu-item-1597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1597"><a href="http://watchiclake.org/about-watchic-lake/the-dam/">The Dam</a></li>
+	<li id="menu-item-1590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1590"><a href="http://watchiclake.org/about-watchic-lake/water-quality/">Water Quality</a></li>
+	<li id="menu-item-1598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1598"><a href="http://watchiclake.org/about-watchic-lake/the-loons-2/">The Loons</a></li>
+	<li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="http://watchiclake.org/watchic-lake-memories/">Memories</a></li>
+</ul>
+</li>
+<li id="menu-item-1562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1562"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-1601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1601"><a href="http://watchiclake.org/education-resources/resources-overview/">Overview</a></li>
+	<li id="menu-item-1593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1593"><a href="http://watchiclake.org/watershed-protection/">Property &#038; Shoreland</a></li>
+	<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1607"><a href="http://watchiclake.org/managing-the-threat-from-invasive-plants/">Invasive Plants</a></li>
+	<li id="menu-item-1604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604"><a href="http://watchiclake.org/lakesmart/">LakeSmart</a></li>
+	<li id="menu-item-1599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599"><a href="http://watchiclake.org/new-to-watchic-lake/">New to Watchic</a></li>
+	<li id="menu-item-1592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1592"><a href="http://watchiclake.org/helpful-links/">Helpful Links</a></li>
+</ul>
+</li>
+<li id="menu-item-1551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1551"><a href="http://watchiclake.org/category/news-events/">News and Events</a></li>
+<li id="menu-item-1617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1617"><a href="http://watchiclake.org/business-sponsors-2/">Business Sponsors</a></li>
+<li id="menu-item-1564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1564"><a href="#">Membership</a>
+<ul class="sub-menu">
+	<li id="menu-item-1603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1603"><a href="http://watchiclake.org/membership-overview/">Overview</a></li>
+	<li id="menu-item-1594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1594"><a href="http://watchiclake.org/how-to-join-or-donate/">Join or Donate</a></li>
+	<li id="menu-item-1606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1606"><a href="http://watchiclake.org/our-members-and-friends/">Our Supporters</a></li>
+</ul>
+</li>
+<li id="menu-item-1561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1561"><a href="#">The Association</a>
+<ul class="sub-menu">
+	<li id="menu-item-1600" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1600"><a href="http://watchiclake.org/overview/">WLA Overview</a></li>
+	<li id="menu-item-1595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="http://watchiclake.org/annual-meeting/">Annual Meeting</a></li>
+	<li id="menu-item-1596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1596"><a href="http://watchiclake.org/newsletters/">Newsletters</a></li>
+	<li id="menu-item-1605" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1605"><a href="http://watchiclake.org/2015-wla-survey/">2015 WLA Survey Results</a></li>
+</ul>
+</li>
+<li id="menu-item-1724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1724"><a href="#">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1591"><a href="http://watchiclake.org/contact-us/">General Inquiries</a></li>
+	<li id="menu-item-1725" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1725"><a href="http://watchiclake.org/reporting-suspicious-plants/">Suspicious Plants</a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+</div><div class="clearfix"></div><div class="hidden-desktop hidden-tablet widget widget_text inner-container">			<div class="textwidget"><div class="wlclickmenu" id="click-menu"><i class="fa fa-bars"></i> MENU</div></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+</header>
+<div class="bodywrapper" id="bodywrapper">
+<div class="ult-wrapper wrapper " id="wrapper-10">
+
+<div class="ult-container  container " id="container-10">
+<div class="row">
+		<div class="ult-column col-md-9 " id="col-10-1">
+			<div class="colwrapper"><div class="inner-container"> 	<div id="content" role="main">
+ 	 	<h1 class="multi-post-title">
+	        </h1>
+     	<p>Sorry, no posts matched your criteria.</p> 	</div>
+ 	</div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-10-2">
+			<div class="colwrapper"><div class="widget widget_ultimatumrecent inner-container"> <h3 class="element-title">Announcements</h3>		
+		<div id="ultimatumrecent-4-recent">
+				
+				<div class="recenposts vertical" >
+				<div class="recentinner " >
+
+										<a href="http://watchiclake.org/2016/06/25/watchic-lake-earns-lakesmart-gold-from-the-maine-lakes-society/"  class="preload">	
+								<div class="featured-image fimage-align-left" >
+								<a href="http://watchiclake.org/2016/06/25/watchic-lake-earns-lakesmart-gold-from-the-maine-lakes-society/"  class="preload " >
+						<img  class="img-responsive" src="http://watchiclake.org/wp-content/uploads/2014/03/LakeSmartLogo2-100x100.jpg" alt="Watchic Lake Earns LakeSmart Gold from the Maine Lakes Society" />
+		            </a>        	</div>					 </a>	
+					 																	<h4 class="recentposth3"><a href="http://watchiclake.org/2016/06/25/watchic-lake-earns-lakesmart-gold-from-the-maine-lakes-society/" class="recentlink">Watchic Lake Earns LakeSmart Gold from the Maine Lakes Society</a></h4>
+																						<p>June 24, 2016. The Maine Lakes Society announced today that the Watchic Lake in Standish, Maine, has...</p>
+																<a href="http://watchiclake.org/2016/06/25/watchic-lake-earns-lakesmart-gold-from-the-maine-lakes-society/" class="recentreadmorelink"><span>Read More</span></a>
+									</div>
+				</div>
+						
+				<div class="recenposts vertical" >
+				<div class="recentinner  last" >
+
+										<a href="http://watchiclake.org/2016/06/12/2016-wla-annual-meeting/"  class="preload">	
+								<div class="featured-image fimage-align-left" >
+								<a href="http://watchiclake.org/2016/06/12/2016-wla-annual-meeting/"  class="preload " >
+						<img  class="img-responsive" src="http://watchiclake.org/wp-content/uploads/2014/03/default-thumb-100x100.jpg" alt="2016 WLA Annual Meeting" />
+		            </a>        	</div>					 </a>	
+					 																	<h4 class="recentposth3"><a href="http://watchiclake.org/2016/06/12/2016-wla-annual-meeting/" class="recentlink">2016 WLA Annual Meeting</a></h4>
+																						<p>THANK YOU to the nearly 70 people that joined us Saturday July 9, 2016 at the Standish Congregationa...</p>
+																<a href="http://watchiclake.org/2016/06/12/2016-wla-annual-meeting/" class="recentreadmorelink"><span>Read More</span></a>
+									</div>
+				</div>
+						</div>
+		
+		</div><div class="widget widget_ultimatumcustomcontent inner-container"> <h3 class="element-title">Business Sponsors</h3>                    <article class="post post-1007 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-1007 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2014/06/19/broadway-gardens/">Broadway Gardens</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>                    <article class="post post-1065 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-1065 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2014/07/17/frugal-farmers/">Frugal Farmers</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>                    <article class="post post-933 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-933 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2014/06/05/lakefront-victorian-rental/">Lakefront Victorian Rental</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>                    <article class="post post-930 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-930 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2014/06/05/little-gatsby-house-rental/">Little Gatsby House Rental</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>                    <article class="post post-1674 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-1674 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2016/03/13/saco-river-dentistry/">Saco River Dentistry</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>                    <article class="post post-608 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-608 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2014/03/20/seasonal-solutions/">Seasonal Solutions</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>                    <article class="post post-830 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-830 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2014/04/28/sullivan-real-estate-group/">Sullivan Real Estate Group</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>                    <article class="post post-578 post type-post status-publish format-standard has-post-thumbnail hentry category-sponsors   post-578 ultimatepost-custom ">
+                        <div class="post-inner">
+                                                                                        <h3 class="post-header">
+                                                                            <a class="post-title" href="http://watchiclake.org/2014/03/20/business-sponsor-2/">Tebo Marketing &#038; Design</a>
+                                                                    </h3>
+                                                        
+                                                                                                            </div>
+                    </article>
+
+
+                    <div style="clear:both"></div>        <div style="clear:both"></div>
+        </div></div>
+		</div>
+		</div></div>
+</div>
+</div>
+<footer class="footwrapper">
+<div class="ult-wrapper wrapper " id="wrapper-13">
+
+<div class="ult-container  container " id="container-13">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-13-1">
+			<div class="colwrapper">Copyright &copy; 2016 Watchic Lake Association, Standish, ME<!-- Start of StatCounter Code for Default Guide -->
+<br/>
+<script type="text/javascript">
+var sc_project=6423019; 
+var sc_invisible=0; 
+var sc_security="aaeef488"; 
+var sc_text=2; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div style="color:#dee9ef !important; text-align:center !important;" class="statcounter"><a title="web stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/6423019/0/aaeef488/0/"
+alt="web stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide --><div class="widget widget_text inner-container">			<div class="textwidget">
+<div align="center"></div></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+</footer>
+<!-- Added by Responsive Menu Plugin for WordPress - http://responsive.menu -->
+
+<div id="responsive-menu" >
+
+    
+        <div id="responsive-menu-title">
+
+            
+                                
+            Menu                
+                        
+        </div>
+    
+    <div class="menu-menu-1-container"><ul id="menu-menu-2" class="responsive-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1874"><a href="http://watchiclake.org/">Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1563"><a href="#">About Watchic Lake</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1602"><a href="http://watchiclake.org/about-watchic-lake/watchic-lake-overview/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1597"><a href="http://watchiclake.org/about-watchic-lake/the-dam/">The Dam</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1590"><a href="http://watchiclake.org/about-watchic-lake/water-quality/">Water Quality</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1598"><a href="http://watchiclake.org/about-watchic-lake/the-loons-2/">The Loons</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="http://watchiclake.org/watchic-lake-memories/">Memories</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1562"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1601"><a href="http://watchiclake.org/education-resources/resources-overview/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1593"><a href="http://watchiclake.org/watershed-protection/">Property &#038; Shoreland</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1607"><a href="http://watchiclake.org/managing-the-threat-from-invasive-plants/">Invasive Plants</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1604"><a href="http://watchiclake.org/lakesmart/">LakeSmart</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1599"><a href="http://watchiclake.org/new-to-watchic-lake/">New to Watchic</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1592"><a href="http://watchiclake.org/helpful-links/">Helpful Links</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1551"><a href="http://watchiclake.org/category/news-events/">News and Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1617"><a href="http://watchiclake.org/business-sponsors-2/">Business Sponsors</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1564"><a href="#">Membership</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1603"><a href="http://watchiclake.org/membership-overview/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1594"><a href="http://watchiclake.org/how-to-join-or-donate/">Join or Donate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1606"><a href="http://watchiclake.org/our-members-and-friends/">Our Supporters</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1561"><a href="#">The Association</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1600"><a href="http://watchiclake.org/overview/">WLA Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1595"><a href="http://watchiclake.org/annual-meeting/">Annual Meeting</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1596"><a href="http://watchiclake.org/newsletters/">Newsletters</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1605"><a href="http://watchiclake.org/2015-wla-survey/">2015 WLA Survey Results</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1724"><a href="#">Contact Us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1591"><a href="http://watchiclake.org/contact-us/">General Inquiries</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1725"><a href="http://watchiclake.org/reporting-suspicious-plants/">Suspicious Plants</a></li>
+</ul>
+</li>
+</ul></div>
+        <form action="http://watchiclake.org" id="responsiveSearch" method="get" role="search">
+
+            <input type="search" name="s" value="" placeholder="Search" id="responsiveSearchInput">
+            <input type="submit" id="responsiveSearchSubmit" />
+            
+        </form>                        
+                        
+       
+</div><!-- Added by Responsive Menu Plugin for WordPress - http://responsive.menu -->
+
+
+
+<div id="click-menu" 
+     class=" 
+     overlay"
+     role="button" 
+     aria-label="Responsive Menu Button"
+     >
+
+
+
+
+    <div class="threeLines " id="RM3Lines">       
+        <div class="line"></div>
+        <div class="line"></div>
+        <div class="line"></div>
+    </div>
+
+
+
+</div><script type='text/javascript' src='http://watchiclake.org/wp-content/plugins/responsive-menu-data/js/responsive-menu-1.js?ver=1.0'></script>
+<script type='text/javascript' src='http://watchiclake.org/wp-content/themes/ultimatum/assets/js/theme.global.tbs3.min.js?ver=2'></script>
+<script type='text/javascript' src='http://watchiclake.org/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://watchiclake.org/wp-content/themes/ultimatum/assets/js/menus/ddsmoothmenu.js?ver=2.38'></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74815741-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</body>
+</html>
+
+<!-- Comet Cache is NOT caching this page, because the WordPress `is_404()` Conditional Tag says the current page is a 404 error. The current configuration says NOT to cache 404 errors. -->

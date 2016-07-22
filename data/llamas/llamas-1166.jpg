@@ -1,0 +1,1665 @@
+﻿<!DOCTYPE html>
+<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml" >
+<!-- #BeginTemplate "Template/Responsive_Template.dwt" -->
+<head>
+<meta charset="UTF-8" />
+<!-- #BeginEditable "doctitle" -->
+<title>Oops</title>
+<style type="text/css">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OL {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : 10pt;
+}
+
+
+.style15 {
+	text-align: center;
+}
+
+
+.style22 {
+	font-size: medium;
+}
+.style20 {
+	font-weight: bold;
+	background-color: #FFFFFF;
+}
+.style21 {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.style18 {
+	font-size: small;
+	color: #4C145E;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.style18 {
+	font-style: normal;
+}
+
+</style>
+<!-- #EndEditable -->
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
+
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css'/>
+ <link rel="icon" 
+      type="image/png" 
+      href="images/272x175/icon12.png">
+
+<!--[if lt IE 9]>
+<script src="js/html5.js"></script>
+<script src="js/selectivizr-min.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="css/ie9.css" />
+<![endif]-->
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="css/ie8.css" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="css/ie7.css" />
+<![endif]-->
+<script type='text/javascript'>
+	/* <![CDATA[ */
+	var tievar = {'go_to' : 'Go to...'};
+	/* ]]> */
+</script>
+
+
+
+<link rel='stylesheet' id='demo-style-css'  href='css/embed/style.css?ver=3.5.1' type='text/css' media='all' />
+
+<script type='text/javascript' src='js/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='js/tie-scripts.js?ver=3.5.1'></script>
+ 
+<meta name="generator" content="" />
+<link rel="shortcut icon" href="favicon.ico" title="Favicon" />	
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+<style type="text/css" media="screen">
+ 
+
+body {background:  url('images/body-bg7.png') center;
+}
+	
+.auto-style1 {
+	font-size: 11px;
+}
+	
+.auto-style2 {
+	color: #CCCCCC;
+}
+	
+</style> 
+
+<meta name="application-name" content="Welcome Mifflin County School District"/> 
+
+<!-- #BeginEditable "Code" -->
+
+
+<!--[if !IE]><!-->
+	<style>
+
+	
+	/* 
+	Max width before this PARTICULAR table gets nasty
+	This query will take effect for any screen smaller than 760px
+	and also iPads specifically.
+	*/
+	@media 
+	only screen and (max-width: 760px),
+	(min-device-width: 768px) and (max-device-width: 1024px)  {
+	
+		/* Force table to not be like tables anymore */
+		table, thead, tbody, th, td, tr { 
+			display: block; 
+		}
+		
+		/* Hide table headers (but not display: none;, for accessibility) */
+		thead tr { 
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+		
+		tr { border: 1px solid #ccc; }
+		
+		td { 
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px solid #eee; 
+			position: relative;
+			padding-left: 50%; 
+		}
+		
+		td:before { 
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top: 6px;
+			left: 6px;
+			width: 45%; 
+			padding-right: 10px; 
+			white-space: nowrap;
+		}
+		
+		/*
+		Label the data
+		*/
+		td:nth-of-type(1):before { content: ""; }
+		td:nth-of-type(2):before { content: ""; }
+		td:nth-of-type(3):before { content: ""; }
+		td:nth-of-type(4):before { content: ""; }
+		td:nth-of-type(5):before { content: ""; }
+		td:nth-of-type(6):before { content: ""; }
+		td:nth-of-type(7):before { content: ""; }
+		td:nth-of-type(8):before { content: ""; }
+		td:nth-of-type(9):before { content: ""; }
+	
+	}
+	
+	/* Smartphones (portrait and landscape) ----------- */
+	@media only screen
+	and (min-device-width : 320px)
+	and (max-device-width : 480px) {
+		body { 
+			padding: 0; 
+			margin: 0; 
+			width: 320px; }
+		}
+	
+	/* iPads (portrait and landscape) ----------- */
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+		body { 
+			width: 495px; 
+		}
+	}
+	
+	</style>
+	<!--<![endif]-->
+
+
+<!-- #EndEditable -->
+			
+<script>
+  (function() {
+    var cx = '010313252764993994729:hj2_rk4vglg';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+</head>
+<body id="top" class="home blog" style="background:url('images/bg1.png') repeat-x;">
+	<div class="background-cover" style="left: -4px; top: 16px"></div>
+	<div class="wrapper">
+		<header>
+						<div class="top-nav">
+												
+				<div class="top-menu"><ul id="menu-top" class="menu">
+				<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="http://www.mcsdk12.org">MCSD</a></li>
+				<li id="menu-item-263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-263"><a href="http://www.mcsdk12.org/schools.htm">Schools</a>
+<ul class="sub-menu">	
+	<li><a href="SchoolMaps.htm">Schools Maps</a></li>
+	<li ><a href="http://www.mcsdk12.org/alpha">Alpha</a></li>
+	<li ><a href="mifflincountyonline.html">MC Online</a></li>	
+	<li><a href="http://www.theacademy.net" target="_blank">The Academy</a></li>	
+	<li><a href="http://www.mcsdk12.org/ederry">East Derry Elementary</a></li>
+	<li><a href="http://www.mcsdk12.org/ivis">Indian Valley Center</a></li>
+	<li><a href="http://www.mcsdk12.org/les">Lewistown Elementary</a></li>
+	<li><a href="http://www.mcsdk12.org/sme">Strodes Mills Elementary</a></li>	
+	<li><a href="http://www.mcsdk12.org/lis">Lewistown Intermediate</a></li>
+	<li ><a href="http://www.mcsdk12.org/mcms">Mifflin County MS</a></li>
+	<li ><a href="http://www.mcsdk12.org/mcjh">Mifflin County Junior High</a></li>
+	<li ><a href="http://www.mcsdk12.org/mchs">Mifflin County High School</a></li>
+	</ul>
+</li>
+	
+<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="http://www.blendedschools.net/index.php" target="_blank">BlendedSchools.net</a>
+	<ul class="sub-menu">
+		<li><a href="http://www.blendedschools.net/index.php" target="_blank">Blended Schools</a></li>
+		<li><a href="https://blendedschools.maestrosis.com/" target="_blank">Maestrosis</a></li>
+	
+	</ul>
+
+
+</li>
+<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://pdesas.org/" target="_blank">S.A.S.</a></li>
+<li  id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="https://www.aesoponline.com/login2.asp" target="_blank">AESOP</a></li>	
+			<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="https://webmail.mcsdk12.org/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fwebmail.mcsdk12.org%2fOWA" target="_blank">Webmail</a></li>						<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://intranet.mcsdk12.org/" target="_blank">Intranet</a></li>
+						<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a href="http://www.mcsdk12.org/skyward2.htm"target="_blank">Family Access</a></li>
+						<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://www2.mcsdk12.org" >Faculty Web Pages</a></li>
+						<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="http://library.mcsdk12.org/" >Library Access</a></li>
+
+						
+						
+						
+						
+						
+						
+						</ul></div>
+						
+				</div><!-- .top-menu /-->
+			
+		<div class="header-content"  >
+			<div class="logo">
+					<a title="Welcome to Mifflin County School District" href="http://www.mcsdk12.org">
+					<img src="images/logos1/huskie1.png" alt="MCSD Logo">
+					<img src="images/logos1/MCSD-add.png" alt="MCSD">
+					</a>
+				
+						</div><!-- .logo /-->
+			<div style="float:right;max-width:100%;margin:auto;padding-top:70px;padding-right:85px" >					
+	
+				<!--webbot bot="HTMLMarkup"  preview="Cycle Date" startspan tag="p" -->
+				<script language="javascript" src="http://www.mcsdk12.org/message/delay-closing.txt" type='text/javascript'></script><!--webbot bot="HTMLMarkup" endspan i-checksum="24198" -->
+			
+					
+					<!--<img src="../images/snow/2-hour-delay.png" style="max-width:100%;" alt="2 Hour Delay">-->
+						<p style="color:#4C145E;  font-size:large"><b>
+			  <!--webbot bot="HTMLMarkup"  preview="Cycle Date" startspan tag="p" -->
+			  <script language="javascript" src="http://www.mcsdk12.org/message/cyclescript.txt" type="text/javascript"></script><!--webbot bot="HTMLMarkup" endspan i-checksum="63578" --></b> </p>
+<p ><!--webbot bot="X_Date" clientside="" preview="---- DATE ----" startspan tag="p" -->
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+var X_now = new Date();
+var X_days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
+var X_months = new Array('Jan.','Feb.','Mar.','Apr.','May','June','July','Aug.','Sept.','Oct.','Nov.','Dec.');
+var X_date = ((X_now.getDate()<10) ? "0" : "")+ X_now.getDate();
+
+function fourdigits(number)    {
+   return (number < 1000) ? number + 1900 : number;
+                               }
+
+X_today =  X_days[X_now.getDay()] + "&nbsp;" +
+              X_months[X_now.getMonth()] + "&nbsp;" +
+               X_date + ",&nbsp;" +
+                (fourdigits(X_now.getYear())) ;
+
+document.write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +X_today);
+//  End -->
+</script>
+<!--webbot bot="X_Date" endspan i-checksum="65075" -->
+</p>
+
+
+
+			
+			</div>		<div class="clear"></div>
+		</div>	
+							<nav id="main-nav">
+				<div class="main-menu"><ul id="menu-main" class="menu">
+				<li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-152" style="left: 0px; top: 0px"><a href="http://www.mcsdk12.org">Home</a>
+
+<li><a class="trigger" href="http://www.mcsdk12.org/admin/">Administration</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/admin/">Administration</a></li>
+
+<li><a href="http://www.mcsdk12.org/admin/admin/cfo.htm">Chief Financial Officer</a></li>
+<li><a href="http://www.mcsdk12.org/admin/admin/director_of_hr.htm">Dir. of Human Resources</a></li>
+<li><a href="http://www.mcsdk12.org/admin/admin/director_of_middle.htm">Dir. of Secondary Education</a></li>
+<li><a href="http://www.mcsdk12.org/fedprog/">Federal Programs</a></li>
+<li><a href="">Human Resources</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/admin/admin/director_of_hr.htm">Dir. of Human Resources</a></li>
+<li><a href="https://intranet.mcsdk12.org/HR/">Human Resources Intranet</a></li>
+</ul>
+</li>
+<li><a href="http://www.mcsdk12.org/admin/employees_pages/default.htm">Key Personnel</a></li>
+<li><a href="http://www.mcsdk12.org/nurse/">Nurses</a></li>
+<li><a href="http://www.mcsdk12.org/admin/school_board_pages/default.htm">School Board</a></li>
+<li><a href="http://www.mcsdk12.org/sped/">Special Education</a></li>
+<li><a href="http://www.mcsdk12.org/strgcplan/">Strategic Plan</a></li>
+<li><a href="http://www.mcsdk12.org/admin/admin/default.htm">Superintendent</a></li>
+<li><a href="http://www.mcsdk12.org/tech/">Technology</a></li>
+<li><a href="http://www.mcsdk12.org/admin/general_information_pages/transportation.htm">Transportation</a></li>
+</ul></li>
+</li>
+<li id="test"><a class="trigger" href="http://www.mcsdk12.org/dept/">Curriculum</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/dept/descriptions.htm">Course Descriptions</a></li>
+<li><a href="http://www.mcsdk12.org/dept/">Curriculum Areas/Additional Depts</a></li>
+<li><a href="http://www.mcsdk12.org/curr/">Curriculum Links</a></li>
+
+</ul>
+</li>
+<li><a class="trigger" href="http://www.mcsdk12.org/parents.htm">Students/Parents</a>
+<ul>
+
+<li><a href="http://www.mcsdk12.org/alpha" target="_blank">Alpha</a></li>
+<li><a href="http://www.mcsdk12.org/calendar1b.htm" class="right">Calendar and Events</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/mchs/ad/" target="_blank">Athletic Events</a></li>
+<li><a href="http://www.mcsdk12.org/calendar1b.htm">Calendar</a></li>
+<li><a href="http://www.mcsdk12.org/cyclesched.htm">Cycle Schedule</a></li>
+<li><a href="http://www.mcmusicboosters.org/?page_id=422" target="_blank">Music Events</a></li>
+</ul>
+
+
+</li>
+
+<li><a href="http://www.mcsdk12.org/chartraits.htm">Character Traits</a></li>
+<li><a href="http://www.mcsdk12.org/comm/">Community</a></li>
+<li><a href="http://www.mcsdk12.org/dresscode.htm">Dress Code</a></li>
+<li><a href="https://eps.mvpbanking.com/cgi-bin/efs/login.pl?access=55956 " target="_blank">E-Funds</a>
+<ul>
+	<li><a href="https://eps.mvpbanking.com/pdf/efundsregistration.pdf " target="_blank">E-Funds Help</a></li>
+	<li><a href="https://eps.mvpbanking.com/cgi-bin/efs/login.pl?access=55956 " target="_blank">E-Funds</a></li>
+</ul>
+
+
+</li>
+<li><a href="http://www2.mcsdk12.org/">Faculty Web Pages</a></li>
+<li><a href="skyward2.htm" class="right">Family Access</a>
+<ul>
+<li><a href="https://familyaccess.mcsdk12.org/scripts/wsisa.dll/WService=wsEAplus/fwemnu01.w" target="_blank">Family Access Login</a></li>
+<li><a href="pdf/MCSD_FA_Tutorial.pdf" target="_blank">Family Access Support</a></li>
+</ul>
+</li>
+
+<li><a href="http://www.mcsdk12.org/fedprog/">Federal Programs</a></li>
+<li><a href="" class="right">Guidance Counselors</a>
+	<ul>
+		<li><a href="https://www.mcsdk12.org/mchs/guidance/">MCHS</a></li>
+		<li><a href="https://www.mcsdk12.org/mcjh/guidance/">MCJH</a></li>
+		<li><a href="http://mcms67.wix.com/schoolcounseling">MCMS</a></li>
+		<li><a href="https://www2.mcsdk12.org/emr23">IVES</a></li>
+		<li><a href="http://bjj261.wix.com/lis-guidance">LIS</a></li>
+		<li><a href="http://mrskauffman.wix.com/counselor">LES</a></li>
+		<li><a href="https://www2.mcsdk12.org/emr23">EDES</a></li>
+		<li><a href="http://mrskauffman.wix.com/counselor">SMES</a></li>
+		<li><a href="http://www.mcsdk12.org/pdf/MCSD_SAP_BROCHURE.pdf">SAP</a></li>
+		<li><a href="suicide_prevention.htm">Suicide Prevention</a></li>
+	</ul>
+</li>
+<li><a href="#" class="right">Intranet/MCSDnet</a>
+	<ul>
+		<li><a href="https://intranet.mcsdk12.org/webguide.htm">Web Page Guidelines</a></li>
+		<li><a href="https://intranet.mcsdk12.org/webresource.htm">Web Resources</a></li>
+	</ul>
+</li>
+<li><a href="http://library.mcsdk12.org/">Library</a></li>
+<li><a href="http://www.mcsdk12.org/admin/lunch_pages/default.htm" class="right">Lunch Menu</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/admin/lunch_pages/default.htm">Menu</a></li>
+<li><a href="http://www.mcsdk12.org/admin/lunch_pages/lunch_prices1.htm">Regular Prices</a></li>
+<li><a href="http://www.mcsdk12.org/admin/lunch_pages/ala_carte_lunch.htm">A la Carte-Lunch</a></li>
+<li><a href="http://www.mcsdk12.org/admin/lunch_pages/ala_carte_breakfast.htm">A la Carte-Breakfast</a></li>
+<li><a href="http://www.mcsdk12.org/admin/lunch_pages/snack_prices.htm">Snack Prices</a></li>
+<li><a href="http://www.mcsdk12.org/admin/lunch_pages/free_reduced.htm">Free and Reduced Info</a></li>
+<!--<li><a href="https://www.myschoolaccount.com/" target="_blank">MySchoolAccount</a>
+	<ul>
+		<li><a href="https://www.myschoolaccount.com/" target="_blank">MySchoolAccount</a></li>
+		<li><a href="../images/slides/My-School-Account-Tutorial.pdf" target="_blank">MSA Tutorial</a></li>
+	
+	</ul>
+</li>-->
+</ul>
+</li>
+<li><a href="http://www.mcesf.org/" target="_blank">MC Ed and Scholarship Foundation</a></li>
+<li><a href="http://www.mcsdk12.org/nationalnews2.htm">National News Resources</a></li>
+<li><a href="http://www.mcsdk12.org/parents.htm">Parent Info and Resources</a></li>
+<li><a href="https://www.mcsdk12.org/hndbk/parent_vol/default.htm">Parent Volunteer Manual</a></li>
+<li><a href="#">Policies/Forms</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/policies1b.htm">Policies/Handbooks</a></li>
+<li><a href="http://www.mcsdk12.org/forms.htm">Forms</a></li>
+</ul></li>
+<li><a href="http://www.mcsdk12.org/Special_ed_parent_info.htm">Special Education Parent Info</a></li>
+<li><a href="http://www.mcsdk12.org/hndbk/">Student Handbooks</a></li>
+<li><a href="http://www.mcsdk12.org/tech/" class="right">Technology</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/tech/">Technology Home</a></li>
+<li><a href="http://www2.mcsdk12.org/ssbb01/teachers.html">Web Dev Training</a></li>
+</ul>
+</li>
+<li><a href="#" onclick="MyWindow=window.open('http://weather.weatherbug.com/PA/Lewistown-weather.html?zcode=z6160&amp;zip=17044','MyWindow','toolbar=yes,location=yes,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=640,height=480,left=30,top=30'); return false;" >
+			Weather Station</a>
+</ul>
+<li id="test"><a class="trigger" href="http://www.mcsdk12.org/staff/">Staff</a>
+<ul>
+<li><a href="https://members.successforall.org/" target="_blank">4Sight Login</a></li>
+<li><a href="https://intranet.mcsdk12.org/data/Staff/Scheduling/schres_registration.asp" target="_blank">Student Grade Assessment</a></li>
+<li><a href="http://www.mcsdk12.org/staff/act48_info.htm" class="right">Act 48 info</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/staff/act48_info.htm">Act 48 Information</a></li>
+<li><a href="https://intranet.mcsdk12.org/fac/act48/act48_form.asp">Act48 Online Eval Form</a></li>
+<li><a href="https://www.perms.ed.state.pa.us/Screens/wfPublicAccess.aspx" target="_blank">PDE Login</a></li>
+<li><a href="http://www.mcsdk12.org/staff/prodev_courses.htm">Prof. Dev. Courses</a></li>
+</ul>
+</li>
+<li><a href="http://www.payspi.org/" class="right">Act 71 Online Training Info</a>
+<ul>
+<li><a href="pdf/2015-2016/act%2071%20instructions.pdf">Act 71 Online Training Instructions</a></li>
+<li><a href="http://www.payspi.org/">Act 71 Online Training</a></li>
+</ul></li>
+<li><a href="https://www.mclasshome.com/assessment/#appSelection/" target="_blank">CIRCLE</a></li>
+<li><a href="https://secure.vport.voyagerlearning.com/vip/" target="_blank">Dibels</a></li>
+<li><a href="https://familyaccess.mcsdk12.org/scripts/wsisa.dll/WService=wsEAplus/seplog01.w" target="_blank">Educator Access Plus</a></li>
+<li><a href="https://mifcep.mcsdk12.org/mifcep" target="_blank" class="right">Employee Portal</a>
+	<ul>
+	<li><a href="pdf/EmployeePortal_Login.pdf" target="_blank">User Guide</a></li>
+	<li><a href="https://mifcep.mcsdk12.org/mifcep/" target="_blank">Employee Portal</a></li>
+	</ul></li>
+<li><a href="https://intranet.mcsdk12.org/HR/" class="right">Human Resources</a>
+<ul>
+<li><a href="https://intranet.mcsdk12.org/HR/">Human Resources Home</a></li>
+<li><a href="https://intranet.mcsdk12.org/HR/workers_comp.htm">Workers' Comp Info and Forms</a></li>
+</ul>
+</li>
+
+<li><a href="https://intranet.mcsdk12.org/" class="right">Intranet/MCSDnet</a>
+<ul>
+
+<li><a href="https://intranet.mcsdk12.org/">Intranet Log On</a></li>
+<li><a href="https://intranet.mcsdk12.org/data/Commres/commres_registration.asp" target="_blank">Community</a></li>
+<li><a href="https://intranet.mcsdk12.org/fac/forms/default.htm">Forms</a></li>
+
+<li><a href="https://intranet.mcsdk12.org/data/Staff/Scheduling/schres_registration.asp" target="_blank">5th Grade</a></li>
+</ul> 
+</li>
+<li><a href="http://fountasandpinnell.com/resources" target="_blank">LLI Resources</a></li>
+<!--<li><a href="http://www.mcsdk12.org/curr/Logon/logonarchive.htm" target="_blank">Logon Newsletter</a></li>-->
+<li><a href="https://mifflin-admin.mapnwea.org/admin" target="_blank" class="right">MAP Admin and Reporting</a></li>
+<li><a href="https://www.paetep.com/mifflin/" target="_blank">PAETEP</a></li>
+<li><a href="http://www.mcsdk12.org/staff/prodev_courses.htm">Prof. Dev. Courses</a></li>
+<li><a href="https://intranet.mcsdk12.org/fac/pssa/">PSSA for MCSD Staff</a></li>
+<li><a href="https://mcsdsky.mcsdk12.org:444/scripts/wsisa.dll/WService=wsFin/seplog01.w" target="_blank">Skyward Employee Access</a>
+<ul>
+	<li><a href="https://mcsdsky.mcsdk12.org:444/scripts/wsisa.dll/WService=wsFin/seplog01.w" target="_blank">Skyward Employee Access</a></li>
+	<li><a href="pdf/2015-2016/Sky_EmployeeAccess.pdf" target="_blank">Employee Access Overview</a></li>
+</ul>
+</li>
+<li><a href="supplyredirect.htm" target="_blank">Supply Requisitions</a></li>
+<li><a href="http://www.mcsdk12.org/tech/" class="right">Technology</a>
+<ul>
+<li><a href="http://www.mcsdk12.org/tech/">Technology Home</a></li>
+<li><a href="http://trackit/TrackItWeb/SelfService/Login" target="_blank">Track-It!</a></li>
+<li><a href="http://www2.mcsdk12.org/ssbb01/teachers.html" target="_blank">Web Page Dev Training</a></li>
+</ul>
+</li>
+<li><a href="https://www.mypdeapps.pa.gov/wfTims.aspx" target="_blank">TIMS</a></li>
+<li><a href="http://trackit/TrackItWeb/SelfService/Login" target="_blank">Track-It!</a></li>
+<li><a href="https://webmail.mcsdk12.org/owa/" target="_blank"  class="right">Web Mail</a>
+<ul>
+<li><a href="https://intranet.mcsdk12.org/OWA/" target="_blank">Web Mail FAQ</a></li>
+<li><a href="https://webmail.mcsdk12.org/owa/" target="_blank">Log On</a></li>
+</ul>
+</li>
+<li><a href="http://www2.mcsdk12.org/" target="_blank">Faculty Web Pages</a></li>
+
+</ul>
+</li>
+<li></li>
+<li id="test"><a class="trigger" href="http://www.mcsdk12.org/alum/">Alumni</a>
+<ul>
+<li><a href="http://www.mcmusicboosters.org/?page_id=783" target="_blank">MC Alumni Band Reunion</a></li>
+<li><a href="http://www.mcsdk12.org/alum/reunions.htm">Reunions</a></li>
+
+
+</ul>
+</li>
+
+<li id="test">
+<a class="trigger" href="Web_apps.htm" >Web Apps</a>
+
+<li>
+<a href="https://mifflin.benchmarkuniverse.com/" target="_blank">Benchmark Universe</a>
+</li>
+</li>
+
+<div style="width:250px; float:right;"><gcse:searchbox-only></gcse:searchbox-only></div>
+
+	<li>
+		
+
+			
+			
+			
+	
+
+	
+	
+	</li>
+</ul>
+
+
+</div>								
+							</nav><!-- .main-nav /-->
+	
+		</header><!-- #header /-->
+	
+	<!-- #BeginEditable "Alert" -->
+	
+	<!--<div  id="main-content" >
+		<span>Weather Alert</span>
+				
+					<ul>
+							<li><a href="#" onclick="MyWindow=window.open('http://www.mcsdk12.org/weatheralert_test.htm','MyWindow','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=350,height=700,left=10,top=10');return true;" >MCSD will be on a 2 Hour Delay</a></li>
+							
+					
+						</ul>
+					
+						<script type="text/javascript">
+			jQuery(document).ready(function(){
+								createTicker(); 
+							});
+		</script>
+		
+		<table><tr><td class="auto-style3"><h2 class="auto-style4">Weather Alert</h2></td>
+			<td class="auto-style5"><p>MCSD will be on a 2 Hour Delay</p></td></tr></table>
+	</div>
+-->
+
+		<!-- #EndEditable -->
+
+		<!-- .breaking-news -->
+	
+	<!-- #BeginEditable "Content" -->
+	
+	<div id="main-content" class="container">
+		
+		
+		<p align="center"><b><font size="5">Oops...</font></b></p>
+		<p align="center">We are sorry, the page you requested was not found.
+		</p>
+		<p align="center">
+		<img alt="Gears" height="162" src="images/gears_anim.gif" width="179"></p>
+		<p align="center"><font size="3">
+		<a href="javascript:window.history.go(-2)">
+		<img align="absmiddle" alt="Back to previous page" border="0" height="15" src="images/back2.gif" width="49"></a>&nbsp;
+		</font><b><font size="3"><a href="javascript:window.history.go(-2)">
+		Would you like to go back?</a></font></b></p>
+		<p align="center"><font size="3"><b>or</b></font></p>
+		<div align="center">
+			<table id="table5" border="0" cellpadding="4" width="98%">
+				<tr>
+					<td>
+					<p align="center"><b>
+					<a href="https://www.mcsdk12.org/default.htm">MCSD Home Page</a>&nbsp; 
+					-&nbsp; <a href="https://www.mcsdk12.org/schools.htm">MCSD 
+					Schools</a></b></p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					<p align="center"><b>
+					<a href="https://www.mcsdk12.org/comm/default.htm">Community 
+					Links</a>&nbsp; -&nbsp;
+					<a href="https://www.mcsdk12.org/dept/default.htm">
+					Curriculum Areas</a>&nbsp; -&nbsp;
+					<a href="http://www.mcsdk12.org/curr/" target="_blank">
+					Curriculum Links</a></b></p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					<p align="center"><b>
+					<a href="https://www.mcsdk12.org/parents.htm">Parent 
+					Resources</a>&nbsp; -&nbsp;
+					<a href="https://www.mcsdk12.org/pssa.htm">PSSA Information</a>&nbsp; 
+					-&nbsp; <a href="https://www.mcsdk12.org/staff/default.htm">
+					Staff</a></b></p>
+					</td>
+				</tr>
+			</table>
+		</div>
+		
+		
+<p></p>
+
+
+		<div class="clear"></div>
+	</div><!-- #EndEditable -->
+		<!-- .container /-->
+	
+	<footer>
+	<div id="footer-widget-area" class="footer-4c">
+
+			<div id="footer-first" class="footer-widgets-box">
+			<div id="posts-list-widget-2" class="footer-widget posts-list"><div class="footer-widget-top">
+				<h4 class="facebook-box">
+				Schools</h4></div>
+						<div class="footer-widget-container">				<ul>
+								<li class="facebook-box">
+						
+				
+					
+								<a href="SchoolMaps.htm">
+						
+				
+					
+					<img  src="images/footer/map-with-phone.png"  alt="maps" title="maps" /></a>
+				
+			</li>
+		
+				</ul>
+	</div></div><!-- .widget /-->		</div>
+	
+			<div id="footer-second" class="footer-widgets-box">
+			<div id="comments_avatar-widget-2" class="footer-widget comments-avatar"><div class="footer-widget-top">
+				<h4 class="facebook-box">Copyright		&amp; Disclaimer		</h4></div>
+						<div class="footer-widget-container">			<ul>	
+			<li>
+				<p class="facebook-box"><span class="stylefoot">Copyright © 
+				1999-2016 MCSD. All rights reserved.</span></p>
+			</li>
+							<li>
+							<p class="facebook-box">
+							<a href="#" onclick="MyWindow=window.open('http://www.mcsdk12.org/disclaimer.htm','MyWindow','toolbar=no,location=no,directories=no,status=yes,menubar=no,scrollbars=yes,resizable=yes,width=450,height=450,left=10,top=10');return true;">
+							<span class="style17">MCSD Disclaimer</span></a></p>
+			</li>
+		</ul>
+	</div></div><!-- .widget /-->		</div><!-- #second .widget-area -->
+	
+
+			<div id="footer-third" class="footer-widgets-box">
+			<div id="latest-tweets-widget-3" class="footer-widget twitter-widget"><div class="footer-widget-top">
+				<h4 class="facebook-box">			
+				<span class="auto-style2">
+				Contact</span>
+		</h4></div>
+						<div class="footer-widget-container">
+<div >
+	<ul>
+		<li>
+				<p class="facebook-box"><span class="stylefoot">Comments to MCSD 
+				may be directed to: </span><a href="mailto:mcsd@mcsdk12.org">
+				<span class="style17">MCSD</span></a></p>
+			</li>
+		<li>
+				<p class="facebook-box"><span class="stylefoot">Comments to the 
+				webmaster may be directed to: </span>
+				<a href="mailto:webmaster@mcsdk12.org"><span class="style17">
+				webmaster</span></a></p>
+			</li>
+	</ul>
+</div>
+		</div></div><!-- .widget /-->		</div><!-- #third .widget-area -->
+	
+			<div id="footer-fourth" class="footer-widgets-box">
+			<div id="posts-list-widget-4" class="footer-widget posts-list"><div class="footer-widget-top">
+				<h4 class="facebook-box">
+				Address</h4></div>
+						<div class="footer-widget-container">	
+						<ul><li>
+						<p class="facebook-box"><span class="stylefoot">
+							Mifflin County School District, <br>201 Eighth Street - 
+							Highland Park,<br>Lewistown,&nbsp;PA&nbsp;17044</span></p>
+						
+						</li>
+							<li>
+							<p class="facebook-box">Phone: 717-248-0148</p>
+						
+						</li></ul>			
+		<div class="clear">&nbsp;&nbsp;</div>
+	</div></div><!-- .widget /-->		</div><!-- #fourth .widget-area -->
+		
+	</div><!-- #footer-widget-area -->
+	<div class="clear"></div>
+</footer><!-- .Footer /-->
+				
+	<div class="clear"></div>
+		<!-- .Footer bottom -->
+	
+</div><!-- .Wrapper -->
+	<div id="topcontrol">Scroll To Top</div>
+	<script>
+	jQuery(document).ready(function() {
+		$open = false ;
+		jQuery("#style_Switcher").css('left','-158px');
+		jQuery("#tie-Settings").click(function() {
+			if( $open ){
+				jQuery(this).parent().animate({left: '-158px'}, 500);
+				$open = false ;
+			}else{
+				jQuery(this).parent().animate({left: '0'}, 500);
+				$open = true ;
+			}
+		});
+		
+		jQuery("#theme-pattern a").click(function() {
+			var pattern = jQuery(this).attr("rel");
+			jQuery(".background-cover").css('background-image','');
+			jQuery("body").css('background-image','url('+pattern+')');
+		});
+
+		jQuery("#theme-Skins a").click(function() {
+			var skin = jQuery(this).attr("rel");
+			
+			jQuery("#switcher-css").attr( 'href' , skin );
+		});
+		
+		jQuery("#theme-img a").click(function() {
+			var img = jQuery(this).attr("rel");
+			jQuery(".background-cover").css('background-image','url('+img+')');
+		});
+
+		jQuery('#BGcolorSelector').ColorPicker({
+			color: '',
+			onShow: function (colpkr) {
+				jQuery(colpkr).fadeIn(500);
+				return false;
+			},
+			onHide: function (colpkr) {
+				jQuery(colpkr).fadeOut(500);
+				return false;
+			},
+			onChange: function (hsb, hex, rgb) {
+				jQuery('#BGcolorSelector div').css('backgroundColor', '#' + hex);
+				jQuery("body").css('backgroundColor', '#' + hex);
+			}
+		});
+		
+		jQuery('#ThemecolorSelector').ColorPicker({
+			color: '',
+			onShow: function (colpkr) {
+				jQuery(colpkr).fadeIn(500);
+				return false;
+			},
+			onHide: function (colpkr) {
+				jQuery(colpkr).fadeOut(500);
+				return false;
+			},
+			onChange: function (hsb, hex, rgb) {
+				jQuery('#ThemecolorSelector div').css('cssText', 'background-color : #' + hex + '!important');
+				jQuery("::-webkit-scrollbar-thumb,.search-block .search-button, #topcontrol, #main-nav ul li.current-menu-item a, #main-nav ul li.current-menu-item a:hover, #main-nav ul li.current-menu-parent a, #main-nav ul li.current-menu-parent a:hover,#main-nav ul li.current-page-ancestor a,#main-nav ul li.current-page-ancestor a:hover,.pagination span.current,.share-post span.share-text,.flex-control-paging li a.flex-active,.ei-slider-thumbs li.ei-slider-element,#main-nav ul li.current-menu-item ul,#main-nav ul li.current-menu-parent ul, #main-nav ul li.current-page-ancestor ul, #topcontrol:hover, .review-percentage .review-item span span,.review-final-score ").css('cssText', 'background-color : #' + hex + '!important');
+				jQuery("#main-nav,.cat-box-content,#sidebar .widget-container,.post-listing,#main-nav ul li.current-menu-item ul li, #main-nav ul li.current-menu-item ul li:first-child,#main-nav ul li.current-menu-parent ul li, #main-nav ul li.current-menu-parent ul li:first-child,#main-nav ul li.current-page-ancestor ul li, #main-nav ul li.current-page-ancestor ul li:first-child").css('cssText', 'border-bottom-color :#' + hex + '!important');
+				jQuery("#main-nav ul li.current-menu-item ul li, #main-nav ul li.current-menu-item ul li:first-child,#main-nav ul li.current-menu-parent ul li, #main-nav ul li.current-menu-parent ul li:first-child,#main-nav ul li.current-page-ancestor ul li, #main-nav ul li.current-page-ancestor ul li:first-child,footer, .top-nav, .top-nav ul li.current-menu-item:after").css('cssText', 'border-top-color : #' + hex + '!important');
+				jQuery(".search-block:after").css('cssText', 'border-right-color : #' + hex + '!important');
+			}
+		});
+	
+	});
+	
+	</script>
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22687469-1']);
+  _gaq.push(['_setDomainName', '.tielabs.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+function AlertIt() {
+var clickAlert = confirm ("Office 365 is now added to the browser favorites bar, and will be removed from this location shortly")
+if (clickAlert )
+window.location="https://login.microsoftonline.com";
+}
+</script>
+<script type="text/javascript">
+function alertConfirmation() {
+var alertWebapps = confirm ("Google Apps is now added to the browser favorites bar, and will be removed from this location shortly")
+if (alertWebapps )
+window.location="https://accounts.google.com";
+}
+</script>
+<script type="text/javascript">
+function alertConfirmation1() {
+var alertWebapps = confirm ("Employment is now a widget to the right, and will be removed from this location soon")
+if (alertWebapps )
+window.location="http://www.mcsdk12.org/admin/general_information_pages/default.htm";
+}
+</script>
+<script type="text/javascript">
+function alertConfirmation3() {
+var alertWebapps = confirm ("Community is now a widget to the right, and will be removed from this location soon")
+if (alertWebapps )
+window.location="http://www.mcsdk12.org/comm/";
+}
+</script>
+
+
+<script type="text/javascript">
+function alertConfirmation2() {
+var alertWebapps = confirm ("Calendar is now a widget to the right, and will be removed from this location soon")
+if (alertWebapps )
+window.location="http://www.mcsdk12.org/calendar1b.htm";
+}
+</script>
+<script type="text/javascript">
+function alertConfirmation4() {
+var alertWebapps = confirm ("Alpha is now located under schools, and will be removed from this location soon")
+if (alertWebapps )
+window.location="http://www.mcsdk12.org/alpha";
+}
+</script>
+
+
+
+<script type='text/javascript' src='js/colorpicker.js?ver=3.5.1'></script>
+<script type='text/javascript' src='js/eye.js?ver=3.5.1'></script>
+<script type='text/javascript' src='js/utils.js?ver=3.5.1'></script>
+<script type='text/javascript' src='js/layout.js?ver=3.5.1'></script>
+<script type='text/javascript' src='js/jquery.cycle.all.js?ver=3.5.1'></script>
+</body>
+<!-- #EndTemplate -->
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: themes.tielabs.com @ 2013-03-12 17:22:20 by W3 Total Cache -->

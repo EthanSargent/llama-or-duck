@@ -1,0 +1,1064 @@
+
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" >
+<html>
+<head>
+<title>Buscador de viajes - Viatges Tuareg</title>
+<meta name="title" content="Viajes de Aventura - Viajes Tuareg">
+<meta name="DC.title" content="Viajes de Aventura - Viajes Tuareg">
+<meta http-equiv="title" content="Viajes de Aventura - Viajes Tuareg">
+<meta http-equiv="keywords" content="viajes,viaje,aventura,viajes de aventura,viajes en grupo,ruta,ofertas de viajes,alternativos,viatges">
+<meta name="keywords" content="viajes,viaje,aventura,viajes de aventura,viajes en grupo,ruta,ofertas de viajes,alternativos,viatges">
+<meta http-equiv="description" content="Viajes de aventura con Viajes Tuareg. Viajes y expediciones a destinos inéditos o culturalmente diferentes. Viajes en grupo reducido y viajes a medida para individuales">
+<meta name="description" content="Viajes de aventura con Viajes Tuareg. Viajes y expediciones a destinos inéditos o culturalmente diferentes. Viajes en grupo reducido y viajes a medida para individuales">
+<meta http-equiv="DC.Description" content="Viajes de aventura con Viajes Tuareg. Viajes y expediciones a destinos inéditos o culturalmente diferentes. Viajes en grupo reducido y viajes a medida para individuales">
+   <meta content="es" name="DC.language">
+   <meta content="pt" name="DC.language">
+   <meta content="cat" name="DC.language">
+        <meta name="classification" CONTENT="travel">
+        <meta name="resource-type" CONTENT="document">
+        <meta name="robots" CONTENT="index  follow">
+        <meta name="GOOGLEBOT" content="index follow">
+        <meta content="global" name="distribution">
+        <meta name="Author" content="Joan Marsà - JMTWEB">
+        <meta name="Identifier" scheme="URI" content="http://www.tuaregviatges.es">
+        <meta name="Publisher" content="http://www.tuaregviatges.es">
+        <meta name="Coverage.jurisdiction" content="España">
+        <meta name="Creator" content="http://www.tuaregviatges.es">
+        <meta name="page-topic" content="viajes,aventura,viatges,viagens">
+        <meta name="audience" content="All">
+        <meta name="Rating" content="General">
+        <meta name="Distribution" content="Global">
+        <meta name="ObjectType" content="Document">
+        <meta name="googlebot" content="index follow">
+        <meta name="robots" content="index,follow,all">
+        <meta name="revisit-after" content="7 Days">
+        <meta name="revisit" content="7 days">
+        <meta name="google-site-verification" content="CCecd7hioy4v7edqDYMdiD8t50u9bnFoQaEiNCsh0KY" />
+<link href='http://fonts.googleapis.com/css?family=Michroma' rel='stylesheet' type='text/css'>
+   <!--[if lte IE 8]>
+        <link rel="stylesheet" type="text/css" href="http://www.tuaregviatges.es/css/tuareg_ie8.css" />
+    <![endif]-->
+        <link rel="Stylesheet" type="text/css" href="http://www.tuaregviatges.es/css/tuareg.css">
+<link rel="Stylesheet" type="text/css" href="http://www.tuaregviatges.es/css/xarxessocials.css"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">    
+<!-- Fuentes de Google -->
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+<!-- Iconos -->
+<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="stylesheet" media="(max-width: 700px)" href="http://tuaregviatges.es/css/tuareg_res.css">
+
+ 
+ 
+
+
+
+
+<script type="text/javascript" src="/js/tuareg.js"></script>
+<script type="text/javascript" src="/js/eines.js"></script>
+<script type="text/javascript" src="/js/prototype.js"></script>
+<script type="text/javascript" src="/js/effects.js"></script>
+<script type="text/javascript" src="/js/side-bar.js"></script>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57240819-1', 'auto');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1&appId=133772679977475";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<link rel="shortcut icon" href="http://tuaregviatges.es/favicon.ico" type="image/x-icon">
+<link rel="icon" href="http://tuaregviatges.es/favicon.ico" type="image/x-icon">
+<meta name="alexaVerifyID" content="TlihBs9WHm45GQq79l4djzplRAY" />
+<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '329041873970407']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=329041873970407&amp;ev=PixelInitialized" /></noscript>
+<link rel="alternate" hreflang="es" href="http://tuaregviatges.es/" />
+<link rel="alternate" hreflang="ca" href="http://tuaregviatges.es/viatges/" />
+<meta name="p:domain_verify" content="4d85fb4f231254dc23a209ed578ec14a"/>
+<!-- Facebook Conversion Code for Visites desde facebook -->
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6033751560106', {'value':'0.00','currency':'EUR'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6033751560106&amp;cd[value]=0.00&amp;cd[currency]=EUR&amp;noscript=1" /></noscript></head>
+<body  >
+<center>
+<script language="JavaScript" type="text/javascript" src="http://www.tuaregviatges.es/js/cookiewarning_tuareg.js"></script>
+<div class="general">
+<div class="header-responsive cf_verdtuareg" >
+                <span class="contacta">
+    <a href="mailto:infotuareg@tuareg.com"><img src="http://tuaregviatges.es/fotos/sobre3.png" alt="Contacta con nosotros" ></a>
+    <a href="tel:+34932652391"><img src="http://tuaregviatges.es/fotos/telefon2.png" alt="Llamanos y resuelve tus dudas" ></a> </span>
+    <span class="logo-responsive"><a href="http://tuaregviatges.es/"><img src="http://tuaregviatges.es/fotos/logo_tuareg.png" alt="Viajes Tuareg" class="logoresmenu"></a></span>
+     <span class="btn-navbar " onclick="drop('header-responsive-inner');">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+     </span>
+      <div id="header-responsive-inner"  style="display:none" >
+      <ul id="accordion" class="accordion" style="width:100%; ">
+        <li>
+           <form id=m_busca_r method="get" action="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php#buscador"  enctype='multipart/form-data' name=busqueda>
+           <span onclick="dropul('buscador_r');" >
+           <div class="link">
+            <i class="fa fa-globe"></i>BUSCA TU DESTINO<input class="go" type="submit"  value="go">
+             <a href="#" onclick="document.getElementById('m_busca_r').submit();"><i class='fa fa-search'></i></a>
+            </div>
+            </span>
+            <div id=buscador_r   style="display:block">
+             <ul class="submenu">
+                <li><div class="buscadestino">
+                    <div class="buscadormenures"><input  name="busca" type="text" class="buscar  cl_vermellteula" value="¿DONDE QUIERES IR?" onfocus="javascript:this.value='';"><input id="hrt" name="hrt" type="hidden" value='' ></div>
+                </div></li>
+            </ul>
+            </div>
+            </form>
+        </li>
+       </ul>
+       <ul id="accordion" class="accordion" style="width:100%; ">
+        <li>
+            <span onclick="dropul('ofertas_menu_r');" >
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+            OFERTAS ESTACIONALES<i class="fa fa-chevron-down"></i>
+            </div>
+            </span>
+            <div id=ofertas_menu_r   style="display:block">
+            <ul   class="submenu" >
+                <li><a  id="proximas_salidas" href="http://www.tuaregviatges.es/proximas_salidas.html" title="Pr&oacute;ximas salidas garantizadas">Pr&oacute;ximas salidas en grupo garantizadas</a></li>
+                <li><a   id="grandes_viajes" href="http://ofertas.tuaregviatges.es/" title="Viajes con precios reducidos">Grandes viajes a precios reducidos</a></li>
+            </ul>
+            </div>
+        </li>
+        </ul>
+        <ul id="accordion" class="accordion" style="width:100%; ">
+        
+        <li>
+
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+           <a id="africa"  href="http://www.tuaregviatges.es/viajes_africa/viajes_africa.html" title="Viajes a &Aacute;frica">&Aacute;frica</a>
+                       <span onclick="dropul('africa_menu_r');"><i class="fa fa-chevron-down"></i>            </span>
+            </div>
+
+            <div id=africa_menu_r   style="display:none">
+            <ul   class="submenu" >
+               
+<li><a id="botswana"   href=http://www.tuaregviatges.es/africa_botswana.html title="viajes a Botswana">Botswana</a></li>  
+<li><a id="burkina_faso"   href=http://www.tuaregviatges.es/africa_burkina_faso.html title="viajes a Burkina faso">Burkina faso</a></li>  
+<li><a id="camerun"   href=http://www.tuaregviatges.es/africa_camerun.html title="viajes a Camerun">Camerun</a></li>  
+<li><a id="costa_de_marfil"   href=http://www.tuaregviatges.es/africa_costa_de_marfil.html title="viajes a Costa de marfil">Costa de marfil</a></li>  
+<li><a id="egipto"   href=http://www.tuaregviatges.es/africa_egipto.html title="viajes a Egipto">Egipto</a></li>  
+<li><a id="etiopia"   href=http://www.tuaregviatges.es/africa_etiopia.html title="viajes a Etiopia">Etiopia</a></li>  
+<li><a id="kenya"   href=http://www.tuaregviatges.es/africa_kenia.html title="viajes a Kenya">Kenya</a></li>  
+<li><a id="madagascar"   href=http://www.tuaregviatges.es/africa_madagascar.html title="viajes a Madagascar">Madagascar</a></li>  
+<li><a id="malawi"   href=http://www.tuaregviatges.es/africa_malawi.html title="viajes a Malawi">Malawi</a></li>  
+<li><a id="mali"   href=http://www.tuaregviatges.es/africa_mali.html title="viajes a Mali">Mali</a></li>  
+<li><a id="marruecos"   href=http://www.tuaregviatges.es/africa_marruecos.html title="viajes a Marruecos">Marruecos</a></li>  
+<li><a id="mozambique"   href=http://www.tuaregviatges.es/africa_mozambique.html title="viajes a Mozambique">Mozambique</a></li>  
+<li><a id="namibia"   href=http://www.tuaregviatges.es/africa_namibia.html title="viajes a Namibia">Namibia</a></li>  
+<li><a id="rwanda"   href=http://www.tuaregviatges.es/africa_ruanda.html title="viajes a Rwanda">Rwanda</a></li>  
+<li><a id="sao_tome_y_principe"   href=http://www.tuaregviatges.es/sao_tome_principe.html title="viajes a S&atilde;o tom&eacute; y principe">S&atilde;o tom&eacute; y principe</a></li>  
+<li><a id="senegal"   href=http://www.tuaregviatges.es/africa_senegal.html title="viajes a Senegal">Senegal</a></li>  
+<li><a id="sudafrica"   href=http://www.tuaregviatges.es/africa_sudafrica.html title="viajes a Sudafrica">Sudafrica</a></li>  
+<li><a id="sudan"   href=http://www.tuaregviatges.es/africa_sudan.html title="viajes a Sudan">Sudan</a></li>  
+<li><a id="tanzania"   href=http://www.tuaregviatges.es/africa_tanzania.html title="viajes a Tanzania">Tanzania</a></li>  
+<li><a id="tunez"   href=http://www.tuaregviatges.es/africa_tunez.html title="viajes a Tunez">Tunez</a></li>  
+<li><a id="uganda"   href=http://www.tuaregviatges.es/africa_uganda.html title="viajes a Uganda">Uganda</a></li>  
+<li><a id="zambia"   href=http://www.tuaregviatges.es/africa_zambia.html title="viajes a Zambia">Zambia</a></li>  
+<li><a id="zimbawe"   href=http://www.tuaregviatges.es/africa_zimbawe.html title="viajes a Zimbawe">Zimbawe</a></li>  
+            </ul>
+            </div>
+        </li>
+             
+        <li>
+
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+           <a id="america_del_norte_y_central"  href="http://www.tuaregviatges.es/viajes_america/viajes_america_norte_y_central.html" title="Viajes a Am&eacute;rica del Norte y Central">Am&eacute;rica del Norte y Central</a>
+                       <span onclick="dropul('america_del_norte_y_central_menu_r');"><i class="fa fa-chevron-down"></i>            </span>
+            </div>
+
+            <div id=america_del_norte_y_central_menu_r   style="display:none">
+            <ul   class="submenu" >
+               
+<li><a id="alaska"   href=http://www.tuaregviatges.es/america_alaska.html title="viajes a Alaska">Alaska</a></li>  
+<li><a id="canada"   href=http://www.tuaregviatges.es/america_canada.html title="viajes a Canada">Canada</a></li>  
+<li><a id="costa_rica"   href=http://www.tuaregviatges.es/america_costarica.html title="viajes a Costa rica">Costa rica</a></li>  
+<li><a id="cuba"   href=http://www.tuaregviatges.es/america_cuba.html title="viajes a Cuba">Cuba</a></li>  
+<li><a id="el_salvador"   href=http://www.tuaregviatges.es/america_el_salvador.html title="viajes a El salvador">El salvador</a></li>  
+<li><a id="estados_unidos"   href=http://www.tuaregviatges.es/america_eeuu.html title="viajes a Estados unidos">Estados unidos</a></li>  
+<li><a id="guatemala"   href=http://www.tuaregviatges.es/america_guatemala.html title="viajes a Guatemala">Guatemala</a></li>  
+<li><a id="honduras"   href=http://www.tuaregviatges.es/america_honduras.html title="viajes a Honduras">Honduras</a></li>  
+<li><a id="mexico"   href=http://www.tuaregviatges.es/america_mexico.html title="viajes a M&eacute;xico">M&eacute;xico</a></li>  
+<li><a id="nicaragua"   href=http://www.tuaregviatges.es/america_nicaragua.html title="viajes a Nicaragua">Nicaragua</a></li>  
+            </ul>
+            </div>
+        </li>
+             
+        <li>
+
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+           <a id="america_del_sur"  href="http://www.tuaregviatges.es/viajes_america/viajes_america.html" title="Viajes a Am&eacute;rica del Sur">Am&eacute;rica del Sur</a>
+                       <span onclick="dropul('america_del_sur_menu_r');"><i class="fa fa-chevron-down"></i>            </span>
+            </div>
+
+            <div id=america_del_sur_menu_r   style="display:none">
+            <ul   class="submenu" >
+               
+<li><a id="argentina"   href=http://www.tuaregviatges.es/america_argentina.html title="viajes a Argentina">Argentina</a></li>  
+<li><a id="bolivia"   href=http://www.tuaregviatges.es/america_bolivia.html title="viajes a Bolivia">Bolivia</a></li>  
+<li><a id="brasil"   href=http://www.tuaregviatges.es/america_brasil.html title="viajes a Brasil">Brasil</a></li>  
+<li><a id="chile"   href=http://www.tuaregviatges.es/america_chile.html title="viajes a Chile">Chile</a></li>  
+<li><a id="colombia"   href=http://www.tuaregviatges.es/america_colombia.html title="viajes a Colombia">Colombia</a></li>  
+<li><a id="ecuador"   href=http://www.tuaregviatges.es/america_ecuador.html title="viajes a Ecuador">Ecuador</a></li>  
+<li><a id="peru"   href=http://www.tuaregviatges.es/america_peru.html title="viajes a Peru">Peru</a></li>  
+<li><a id="venezuela"   href=http://www.tuaregviatges.es/america_venezuela.html title="viajes a Venezuela">Venezuela</a></li>  
+            </ul>
+            </div>
+        </li>
+             
+        <li>
+
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+           <a id="asia"  href="http://www.tuaregviatges.es/viajes_asia/viajes_asia.html" title="Viajes a Asia">Asia</a>
+                       <span onclick="dropul('asia_menu_r');"><i class="fa fa-chevron-down"></i>            </span>
+            </div>
+
+            <div id=asia_menu_r   style="display:none">
+            <ul   class="submenu" >
+               
+<li><a id="bhutan"   href=http://www.tuaregviatges.es/asia_bhutan.html title="viajes a Bhutan">Bhutan</a></li>  
+<li><a id="camboya"   href=http://www.tuaregviatges.es/asia_camboya.html title="viajes a Camboya">Camboya</a></li>  
+<li><a id="china"   href=http://www.tuaregviatges.es/asia_china.html title="viajes a China">China</a></li>  
+<li><a id="emiratos_arabes"   href=http://www.tuaregviatges.es/asia_emiratos_arabes.html title="viajes a Emiratos arabes">Emiratos arabes</a></li>  
+<li><a id="georgia"   href=http://www.tuaregviatges.es/asia_georgia.html title="viajes a Georgia">Georgia</a></li>  
+<li><a id="india"   href=http://www.tuaregviatges.es/asia_india.html title="viajes a India">India</a></li>  
+<li><a id="indonesia"   href=http://www.tuaregviatges.es/asia_indonesia.html title="viajes a Indonesia">Indonesia</a></li>  
+<li><a id="iran"   href=http://www.tuaregviatges.es/asia_iran.html title="viajes a Iran">Iran</a></li>  
+<li><a id="japon"   href=http://www.tuaregviatges.es/asia_japon.html title="viajes a Japon">Japon</a></li>  
+<li><a id="jordania"   href=http://www.tuaregviatges.es/asia_jordania.html title="viajes a Jordania">Jordania</a></li>  
+<li><a id="kazajstan"   href=http://www.tuaregviatges.es/asia_kazajstan.html title="viajes a Kazajst&aacute;n">Kazajst&aacute;n</a></li>  
+<li><a id="kyrgyzstan"   href=http://www.tuaregviatges.es/asia_kyrgyzstan.html title="viajes a Kyrgyzstan">Kyrgyzstan</a></li>  
+<li><a id="laos"   href=http://www.tuaregviatges.es/asia_laos.html title="viajes a Laos">Laos</a></li>  
+<li><a id="libano"   href=http://www.tuaregviatges.es/asia_libano.html title="viajes a Libano">Libano</a></li>  
+<li><a id="mongolia"   href=http://www.tuaregviatges.es/asia_mongolia.html title="viajes a Mongolia">Mongolia</a></li>  
+<li><a id="myanmar-birmania"   href=http://www.tuaregviatges.es/asia_myanmar.html title="viajes a Myanmar-birmania">Myanmar-birmania</a></li>  
+<li><a id="nepal"   href=http://www.tuaregviatges.es/asia_nepaltibet.html title="viajes a Nepal">Nepal</a></li>  
+<li><a id="oman"   href=http://www.tuaregviatges.es/asia_oman.html title="viajes a Oman">Oman</a></li>  
+<li><a id="rusia"   href=http://www.tuaregviatges.es/asia_rusia.html title="viajes a Rusia">Rusia</a></li>  
+<li><a id="sri_lanka"   href=http://www.tuaregviatges.es/asia_srilanka.html title="viajes a Sri lanka">Sri lanka</a></li>  
+<li><a id="tailandia"   href=http://www.tuaregviatges.es/asia_thailandia.html title="viajes a Tailandia">Tailandia</a></li>  
+<li><a id="tibet"   href=http://www.tuaregviatges.es/asia_tibet.html title="viajes a Tibet">Tibet</a></li>  
+<li><a id="uzbekistan"   href=http://www.tuaregviatges.es/asia_uzbekistan.html title="viajes a Uzbekistan">Uzbekistan</a></li>  
+<li><a id="vietnam"   href=http://www.tuaregviatges.es/asia_vietnam.html title="viajes a Vietnam">Vietnam</a></li>  
+            </ul>
+            </div>
+        </li>
+             
+        <li>
+
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+           <a id="australia_y_oceania"  href="http://www.tuaregviatges.es/viajes_oceania/viajes_australia_y_oceania.html" title="Viajes a Australia y Ocean&iacute;a">Australia y Ocean&iacute;a</a>
+                       <span onclick="dropul('australia_y_oceania_menu_r');"><i class="fa fa-chevron-down"></i>            </span>
+            </div>
+
+            <div id=australia_y_oceania_menu_r   style="display:none">
+            <ul   class="submenu" >
+               
+<li><a id="australia"   href=http://www.tuaregviatges.es/asia_australia.html title="viajes a Australia">Australia</a></li>  
+<li><a id="nueva_zelanda"   href=http://www.tuaregviatges.es/asia_nuevazelanda.html title="viajes a Nueva zelanda">Nueva zelanda</a></li>  
+            </ul>
+            </div>
+        </li>
+             
+        <li>
+
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+           <a id="europa"  href="http://www.tuaregviatges.es/viajes_europa/viajes_europa.html" title="Viajes a Europa">Europa</a>
+                       <span onclick="dropul('europa_menu_r');"><i class="fa fa-chevron-down"></i>            </span>
+            </div>
+
+            <div id=europa_menu_r   style="display:none">
+            <ul   class="submenu" >
+               
+<li><a id="albania"   href=http://www.tuaregviatges.es/europa_albania.html title="viajes a Albania">Albania</a></li>  
+<li><a id="alemania"   href=http://www.tuaregviatges.es/viajes_alemania.html title="viajes a Alemania">Alemania</a></li>  
+<li><a id="austria"   href=http://www.tuaregviatges.es/viajes_austria.html title="viajes a Austria">Austria</a></li>  
+<li><a id="bulgaria"   href=http://www.tuaregviatges.es/europa_bulgaria.html title="viajes a Bulgaria">Bulgaria</a></li>  
+<li><a id="croacia"   href=http://www.tuaregviatges.es/europa_croacia.html title="viajes a Croacia">Croacia</a></li>  
+<li><a id="dinamarca"   href=http://www.tuaregviatges.es/europa_dinamarca.html title="viajes a Dinamarca">Dinamarca</a></li>  
+<li><a id="eslovaquia"   href=http://www.tuaregviatges.es/europa_eslovaquia.html title="viajes a Eslovaquia">Eslovaquia</a></li>  
+<li><a id="eslovenia"   href=http://www.tuaregviatges.es/europa_eslovenia.html title="viajes a Eslovenia">Eslovenia</a></li>  
+<li><a id="finlandia"   href=http://www.tuaregviatges.es/europa_finlandia.html title="viajes a Finlandia">Finlandia</a></li>  
+<li><a id="grecia"   href=http://www.tuaregviatges.es/europa_grecia.html title="viajes a Grecia">Grecia</a></li>  
+<li><a id="hungria"   href=http://www.tuaregviatges.es/viajes_hungria.html title="viajes a Hungr&iacute;a">Hungr&iacute;a</a></li>  
+<li><a id="irlanda"   href=http://www.tuaregviatges.es/europa_irlanda.html title="viajes a Irlanda">Irlanda</a></li>  
+<li><a id="islandia"   href=http://www.tuaregviatges.es/europa_islandia.html title="viajes a Islandia">Islandia</a></li>  
+<li><a id="italia"   href=http://www.tuaregviatges.es/europa_italia.html title="viajes a Italia">Italia</a></li>  
+<li><a id="kosovo"   href=http://www.tuaregviatges.es/europa_kosovo.html title="viajes a Kosovo">Kosovo</a></li>  
+<li><a id="macedonia"   href=http://www.tuaregviatges.es/europa_macedonia.html title="viajes a Macedonia">Macedonia</a></li>  
+<li><a id="noruega"   href=http://www.tuaregviatges.es/europa_noruega.html title="viajes a Noruega">Noruega</a></li>  
+<li><a id="portugal"   href=http://www.tuaregviatges.es/europa_madeira.html title="viajes a Portugal">Portugal</a></li>  
+<li><a id="turquia"   href=http://www.tuaregviatges.es/europa_turquia.html title="viajes a Turquia">Turquia</a></li>  
+            </ul>
+            </div>
+        </li>
+             
+        <li>
+
+            <div class="link">
+            <i class="fa fa-tuareg"><img src="http://www.tuaregviatges.es/fotos/petit_clar.gif" class="icomenu" ></i>
+           <a id="rutas_polares"  href="http://www.tuaregviatges.es/viajes_polos/viajes_rutas_polares.html" title="Viajes a Rutas Polares">Rutas Polares</a>
+                       <span onclick="dropul('rutas_polares_menu_r');"><i class="fa fa-chevron-down"></i>            </span>
+            </div>
+
+            <div id=rutas_polares_menu_r   style="display:none">
+            <ul   class="submenu" >
+               
+<li><a id="antartida"   href=http://www.tuaregviatges.es/rutaspolares_antartico.html title="viajes a Antartida">Antartida</a></li>  
+<li><a id="artico"   href=http://www.tuaregviatges.es/rutaspolares_artico.html title="viajes a Artico">Artico</a></li>  
+<li><a id="groenlandia"   href=http://www.tuaregviatges.es/europa_groenlandia.html title="viajes a Groenlandia">Groenlandia</a></li>  
+            </ul>
+            </div>
+        </li>
+             
+             </ul>
+      </div>
+
+</div>
+<a name=buscador><div class="situabusca"></div> </a>
+<div class="header-responsive"   >
+      <ul id="accordion" class="accordion" style="width:100%; ">
+        <li>
+           <form id=f_busca_r method="get" action="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php#buscador"  enctype='multipart/form-data' name=busqueda>
+           <span onclick="dropul('buscador_r');" >
+            <div class="link">
+            <i class="fa fa-globe"></i>BUSCA TU DESTINO<input class="go" type="submit"  value="go">
+             <a href="#" onclick="document.getElementById('f_busca_r').submit();"><i class='fa fa-search'></i></a>
+            </div>
+            </span>
+            <div id=buscador_r   style="display:block">
+             <ul class="submenu">
+                <li><div class="buscadestino">
+                    <div class="buscadormenures"><input id="input_busca" name="busca" type="text" class="buscar  cl_vermellteula" value="¿DONDE QUIERES IR?" onfocus="javascript:this.value='';"><input id="hrt" name="hrt" type="hidden" value='' ></div>
+                </div></li>
+            </ul>
+            </div>
+            </form>
+        </li>
+       </ul>
+</div>
+
+<table class="general" >
+
+     <td class="col_esquerra cf_verdblanc cl_verdfort"  >
+         <div class="superior cf_facebook cl_verdfort">
+          <div class="idioma cl_verdblanc b">CASTELLANO<span class="sep_fletxa_verdblanc"> > </span><a  class="verdfort" href='/busca/troba_el_teu_viatge.php'> CATALÀ</a>
+          </div>
+          </div>
+                  <div itemscope itemtype="http://schema.org/TravelAgency">
+         <div class="logo" onclick="window.location.href='http://www.tuaregviatges.es';">
+            <img src="http://www.tuaregviatges.es/fotos/logotuareg.png"  class="logo" title="Viajes Tuareg, viajes alternativos y de aventura">
+         </div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu">&nbsp;</div>
+              <div class="adresa cl_vermellteula">
+                   <p itemprop="name" >Viajes Tuareg</p>
+                   <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                   <p itemprop="streetAddress">Ptge. de Mariner 1 bis</p>
+                   <p><span itemprop="postalCode">08025</span> <span itemprop="addressLocality">Barcelona </span></p>
+                   <p itemprop="telephone">Tel. 34 93 265 23 91 </p>
+                   <p itemprop="email">infotuareg<img src="http://www.tuaregviatges.es/fotos/mailhome.jpg" class=mailhome>tuareg.com </p>
+              </div>
+         </div>
+         </div>
+         <div class="sep_menu cf_verdfort" id="destinos">&nbsp; </div>
+         <div class="sep_menu_titol"><span onclick="dropb('destinos_menu');dropb('destinos_mes');dropb('destinos_menys');">
+              <div class="mes_seccio_menu" id=destinos_mes   style="display:block"> + </div>
+              <div class="mes_seccio_menu" id=destinos_menys style="display:none"> <div class="menys cf_verdfort">&nbsp;</div> </div>
+              <div class="titol_seccio_menu">DESTINOS</div></span>
+         </div>
+        <div id=destinos_menu class="sep_menu_subtitol" style="display:none">
+           
+              <span onclick="drop('africa_menu');drop('africa_menys');drop('africa_mes');">
+                    <div id="africa_mes" class="mes_subseccio_menu" style="display:block"> + </div>
+                    <div id="africa_menys" class="mes_subseccio_menu" style="display:none"> <div class="menys_continent cf_verdfort">&nbsp;</div> </div>
+                    <div class="titol_subseccio_menu"><a id="africa" class="verdfort" href="http://www.tuaregviatges.es/viajes_africa/viajes_africa.html" title="Viajes a &Aacute;frica">&Aacute;frica</a></div>
+              </span>
+              <div id=africa_menu class="sep_menu_subtitol" style="display:none">
+                          
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="botswana" class="grisfort ca" href=http://www.tuaregviatges.es/africa_botswana.html title="viajes a Botswana">Botswana</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="burkina_faso" class="grisfort ca" href=http://www.tuaregviatges.es/africa_burkina_faso.html title="viajes a Burkina faso">Burkina faso</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="camerun" class="grisfort ca" href=http://www.tuaregviatges.es/africa_camerun.html title="viajes a Camerun">Camerun</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="costa_de_marfil" class="grisfort ca" href=http://www.tuaregviatges.es/africa_costa_de_marfil.html title="viajes a Costa de marfil">Costa de marfil</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="egipto" class="grisfort ca" href=http://www.tuaregviatges.es/africa_egipto.html title="viajes a Egipto">Egipto</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="etiopia" class="grisfort ca" href=http://www.tuaregviatges.es/africa_etiopia.html title="viajes a Etiopia">Etiopia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="kenya" class="grisfort ca" href=http://www.tuaregviatges.es/africa_kenia.html title="viajes a Kenya">Kenya</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="madagascar" class="grisfort ca" href=http://www.tuaregviatges.es/africa_madagascar.html title="viajes a Madagascar">Madagascar</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="malawi" class="grisfort ca" href=http://www.tuaregviatges.es/africa_malawi.html title="viajes a Malawi">Malawi</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="mali" class="grisfort ca" href=http://www.tuaregviatges.es/africa_mali.html title="viajes a Mali">Mali</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="marruecos" class="grisfort ca" href=http://www.tuaregviatges.es/africa_marruecos.html title="viajes a Marruecos">Marruecos</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="mozambique" class="grisfort ca" href=http://www.tuaregviatges.es/africa_mozambique.html title="viajes a Mozambique">Mozambique</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="namibia" class="grisfort ca" href=http://www.tuaregviatges.es/africa_namibia.html title="viajes a Namibia">Namibia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="rwanda" class="grisfort ca" href=http://www.tuaregviatges.es/africa_ruanda.html title="viajes a Rwanda">Rwanda</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="sao_tome_y_principe" class="grisfort ca" href=http://www.tuaregviatges.es/sao_tome_principe.html title="viajes a S&atilde;o tom&eacute; y principe">S&atilde;o tom&eacute; y principe</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="senegal" class="grisfort ca" href=http://www.tuaregviatges.es/africa_senegal.html title="viajes a Senegal">Senegal</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="sudafrica" class="grisfort ca" href=http://www.tuaregviatges.es/africa_sudafrica.html title="viajes a Sudafrica">Sudafrica</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="sudan" class="grisfort ca" href=http://www.tuaregviatges.es/africa_sudan.html title="viajes a Sudan">Sudan</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="tanzania" class="grisfort ca" href=http://www.tuaregviatges.es/africa_tanzania.html title="viajes a Tanzania">Tanzania</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="tunez" class="grisfort ca" href=http://www.tuaregviatges.es/africa_tunez.html title="viajes a Tunez">Tunez</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="uganda" class="grisfort ca" href=http://www.tuaregviatges.es/africa_uganda.html title="viajes a Uganda">Uganda</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="zambia" class="grisfort ca" href=http://www.tuaregviatges.es/africa_zambia.html title="viajes a Zambia">Zambia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="zimbawe" class="grisfort ca" href=http://www.tuaregviatges.es/africa_zimbawe.html title="viajes a Zimbawe">Zimbawe</a></div> </div>
+              </div>
+             
+              <span onclick="drop('america_del_norte_y_central_menu');drop('america_del_norte_y_central_menys');drop('america_del_norte_y_central_mes');">
+                    <div id="america_del_norte_y_central_mes" class="mes_subseccio_menu" style="display:block"> + </div>
+                    <div id="america_del_norte_y_central_menys" class="mes_subseccio_menu" style="display:none"> <div class="menys_continent cf_verdfort">&nbsp;</div> </div>
+                    <div class="titol_subseccio_menu"><a id="america_del_norte_y_central" class="verdfort" href="http://www.tuaregviatges.es/viajes_america/viajes_america_norte_y_central.html" title="Viajes a Am&eacute;rica del Norte y Central">Am&eacute;rica del Norte y Central</a></div>
+              </span>
+              <div id=america_del_norte_y_central_menu class="sep_menu_subtitol" style="display:none">
+                          
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="alaska" class="grisfort ca" href=http://www.tuaregviatges.es/america_alaska.html title="viajes a Alaska">Alaska</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="canada" class="grisfort ca" href=http://www.tuaregviatges.es/america_canada.html title="viajes a Canada">Canada</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="costa_rica" class="grisfort ca" href=http://www.tuaregviatges.es/america_costarica.html title="viajes a Costa rica">Costa rica</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="cuba" class="grisfort ca" href=http://www.tuaregviatges.es/america_cuba.html title="viajes a Cuba">Cuba</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="el_salvador" class="grisfort ca" href=http://www.tuaregviatges.es/america_el_salvador.html title="viajes a El salvador">El salvador</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="estados_unidos" class="grisfort ca" href=http://www.tuaregviatges.es/america_eeuu.html title="viajes a Estados unidos">Estados unidos</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="guatemala" class="grisfort ca" href=http://www.tuaregviatges.es/america_guatemala.html title="viajes a Guatemala">Guatemala</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="honduras" class="grisfort ca" href=http://www.tuaregviatges.es/america_honduras.html title="viajes a Honduras">Honduras</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="mexico" class="grisfort ca" href=http://www.tuaregviatges.es/america_mexico.html title="viajes a M&eacute;xico">M&eacute;xico</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="nicaragua" class="grisfort ca" href=http://www.tuaregviatges.es/america_nicaragua.html title="viajes a Nicaragua">Nicaragua</a></div> </div>
+              </div>
+             
+              <span onclick="drop('america_del_sur_menu');drop('america_del_sur_menys');drop('america_del_sur_mes');">
+                    <div id="america_del_sur_mes" class="mes_subseccio_menu" style="display:block"> + </div>
+                    <div id="america_del_sur_menys" class="mes_subseccio_menu" style="display:none"> <div class="menys_continent cf_verdfort">&nbsp;</div> </div>
+                    <div class="titol_subseccio_menu"><a id="america_del_sur" class="verdfort" href="http://www.tuaregviatges.es/viajes_america/viajes_america.html" title="Viajes a Am&eacute;rica del Sur">Am&eacute;rica del Sur</a></div>
+              </span>
+              <div id=america_del_sur_menu class="sep_menu_subtitol" style="display:none">
+                          
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="argentina" class="grisfort ca" href=http://www.tuaregviatges.es/america_argentina.html title="viajes a Argentina">Argentina</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="bolivia" class="grisfort ca" href=http://www.tuaregviatges.es/america_bolivia.html title="viajes a Bolivia">Bolivia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="brasil" class="grisfort ca" href=http://www.tuaregviatges.es/america_brasil.html title="viajes a Brasil">Brasil</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="chile" class="grisfort ca" href=http://www.tuaregviatges.es/america_chile.html title="viajes a Chile">Chile</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="colombia" class="grisfort ca" href=http://www.tuaregviatges.es/america_colombia.html title="viajes a Colombia">Colombia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="ecuador" class="grisfort ca" href=http://www.tuaregviatges.es/america_ecuador.html title="viajes a Ecuador">Ecuador</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="peru" class="grisfort ca" href=http://www.tuaregviatges.es/america_peru.html title="viajes a Peru">Peru</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="venezuela" class="grisfort ca" href=http://www.tuaregviatges.es/america_venezuela.html title="viajes a Venezuela">Venezuela</a></div> </div>
+              </div>
+             
+              <span onclick="drop('asia_menu');drop('asia_menys');drop('asia_mes');">
+                    <div id="asia_mes" class="mes_subseccio_menu" style="display:block"> + </div>
+                    <div id="asia_menys" class="mes_subseccio_menu" style="display:none"> <div class="menys_continent cf_verdfort">&nbsp;</div> </div>
+                    <div class="titol_subseccio_menu"><a id="asia" class="verdfort" href="http://www.tuaregviatges.es/viajes_asia/viajes_asia.html" title="Viajes a Asia">Asia</a></div>
+              </span>
+              <div id=asia_menu class="sep_menu_subtitol" style="display:none">
+                          
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="bhutan" class="grisfort ca" href=http://www.tuaregviatges.es/asia_bhutan.html title="viajes a Bhutan">Bhutan</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="camboya" class="grisfort ca" href=http://www.tuaregviatges.es/asia_camboya.html title="viajes a Camboya">Camboya</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="china" class="grisfort ca" href=http://www.tuaregviatges.es/asia_china.html title="viajes a China">China</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="emiratos_arabes" class="grisfort ca" href=http://www.tuaregviatges.es/asia_emiratos_arabes.html title="viajes a Emiratos arabes">Emiratos arabes</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="georgia" class="grisfort ca" href=http://www.tuaregviatges.es/asia_georgia.html title="viajes a Georgia">Georgia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="india" class="grisfort ca" href=http://www.tuaregviatges.es/asia_india.html title="viajes a India">India</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="indonesia" class="grisfort ca" href=http://www.tuaregviatges.es/asia_indonesia.html title="viajes a Indonesia">Indonesia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="iran" class="grisfort ca" href=http://www.tuaregviatges.es/asia_iran.html title="viajes a Iran">Iran</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="japon" class="grisfort ca" href=http://www.tuaregviatges.es/asia_japon.html title="viajes a Japon">Japon</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="jordania" class="grisfort ca" href=http://www.tuaregviatges.es/asia_jordania.html title="viajes a Jordania">Jordania</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="kazajstan" class="grisfort ca" href=http://www.tuaregviatges.es/asia_kazajstan.html title="viajes a Kazajst&aacute;n">Kazajst&aacute;n</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="kyrgyzstan" class="grisfort ca" href=http://www.tuaregviatges.es/asia_kyrgyzstan.html title="viajes a Kyrgyzstan">Kyrgyzstan</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="laos" class="grisfort ca" href=http://www.tuaregviatges.es/asia_laos.html title="viajes a Laos">Laos</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="libano" class="grisfort ca" href=http://www.tuaregviatges.es/asia_libano.html title="viajes a Libano">Libano</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="mongolia" class="grisfort ca" href=http://www.tuaregviatges.es/asia_mongolia.html title="viajes a Mongolia">Mongolia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="myanmar-birmania" class="grisfort ca" href=http://www.tuaregviatges.es/asia_myanmar.html title="viajes a Myanmar-birmania">Myanmar-birmania</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="nepal" class="grisfort ca" href=http://www.tuaregviatges.es/asia_nepaltibet.html title="viajes a Nepal">Nepal</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="oman" class="grisfort ca" href=http://www.tuaregviatges.es/asia_oman.html title="viajes a Oman">Oman</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="rusia" class="grisfort ca" href=http://www.tuaregviatges.es/asia_rusia.html title="viajes a Rusia">Rusia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="sri_lanka" class="grisfort ca" href=http://www.tuaregviatges.es/asia_srilanka.html title="viajes a Sri lanka">Sri lanka</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="tailandia" class="grisfort ca" href=http://www.tuaregviatges.es/asia_thailandia.html title="viajes a Tailandia">Tailandia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="tibet" class="grisfort ca" href=http://www.tuaregviatges.es/asia_tibet.html title="viajes a Tibet">Tibet</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="uzbekistan" class="grisfort ca" href=http://www.tuaregviatges.es/asia_uzbekistan.html title="viajes a Uzbekistan">Uzbekistan</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="vietnam" class="grisfort ca" href=http://www.tuaregviatges.es/asia_vietnam.html title="viajes a Vietnam">Vietnam</a></div> </div>
+              </div>
+             
+              <span onclick="drop('australia_y_oceania_menu');drop('australia_y_oceania_menys');drop('australia_y_oceania_mes');">
+                    <div id="australia_y_oceania_mes" class="mes_subseccio_menu" style="display:block"> + </div>
+                    <div id="australia_y_oceania_menys" class="mes_subseccio_menu" style="display:none"> <div class="menys_continent cf_verdfort">&nbsp;</div> </div>
+                    <div class="titol_subseccio_menu"><a id="australia_y_oceania" class="verdfort" href="http://www.tuaregviatges.es/viajes_oceania/viajes_australia_y_oceania.html" title="Viajes a Australia y Ocean&iacute;a">Australia y Ocean&iacute;a</a></div>
+              </span>
+              <div id=australia_y_oceania_menu class="sep_menu_subtitol" style="display:none">
+                          
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="australia" class="grisfort ca" href=http://www.tuaregviatges.es/asia_australia.html title="viajes a Australia">Australia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="nueva_zelanda" class="grisfort ca" href=http://www.tuaregviatges.es/asia_nuevazelanda.html title="viajes a Nueva zelanda">Nueva zelanda</a></div> </div>
+              </div>
+             
+              <span onclick="drop('europa_menu');drop('europa_menys');drop('europa_mes');">
+                    <div id="europa_mes" class="mes_subseccio_menu" style="display:block"> + </div>
+                    <div id="europa_menys" class="mes_subseccio_menu" style="display:none"> <div class="menys_continent cf_verdfort">&nbsp;</div> </div>
+                    <div class="titol_subseccio_menu"><a id="europa" class="verdfort" href="http://www.tuaregviatges.es/viajes_europa/viajes_europa.html" title="Viajes a Europa">Europa</a></div>
+              </span>
+              <div id=europa_menu class="sep_menu_subtitol" style="display:none">
+                          
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="albania" class="grisfort ca" href=http://www.tuaregviatges.es/europa_albania.html title="viajes a Albania">Albania</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="alemania" class="grisfort ca" href=http://www.tuaregviatges.es/viajes_alemania.html title="viajes a Alemania">Alemania</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="austria" class="grisfort ca" href=http://www.tuaregviatges.es/viajes_austria.html title="viajes a Austria">Austria</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="bulgaria" class="grisfort ca" href=http://www.tuaregviatges.es/europa_bulgaria.html title="viajes a Bulgaria">Bulgaria</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="croacia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_croacia.html title="viajes a Croacia">Croacia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="dinamarca" class="grisfort ca" href=http://www.tuaregviatges.es/europa_dinamarca.html title="viajes a Dinamarca">Dinamarca</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="eslovaquia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_eslovaquia.html title="viajes a Eslovaquia">Eslovaquia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="eslovenia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_eslovenia.html title="viajes a Eslovenia">Eslovenia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="finlandia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_finlandia.html title="viajes a Finlandia">Finlandia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="grecia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_grecia.html title="viajes a Grecia">Grecia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="hungria" class="grisfort ca" href=http://www.tuaregviatges.es/viajes_hungria.html title="viajes a Hungr&iacute;a">Hungr&iacute;a</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="irlanda" class="grisfort ca" href=http://www.tuaregviatges.es/europa_irlanda.html title="viajes a Irlanda">Irlanda</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="islandia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_islandia.html title="viajes a Islandia">Islandia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="italia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_italia.html title="viajes a Italia">Italia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="kosovo" class="grisfort ca" href=http://www.tuaregviatges.es/europa_kosovo.html title="viajes a Kosovo">Kosovo</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="macedonia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_macedonia.html title="viajes a Macedonia">Macedonia</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="noruega" class="grisfort ca" href=http://www.tuaregviatges.es/europa_noruega.html title="viajes a Noruega">Noruega</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="portugal" class="grisfort ca" href=http://www.tuaregviatges.es/europa_madeira.html title="viajes a Portugal">Portugal</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="turquia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_turquia.html title="viajes a Turquia">Turquia</a></div> </div>
+              </div>
+             
+              <span onclick="drop('rutas_polares_menu');drop('rutas_polares_menys');drop('rutas_polares_mes');">
+                    <div id="rutas_polares_mes" class="mes_subseccio_menu" style="display:block"> + </div>
+                    <div id="rutas_polares_menys" class="mes_subseccio_menu" style="display:none"> <div class="menys_continent cf_verdfort">&nbsp;</div> </div>
+                    <div class="titol_subseccio_menu"><a id="rutas_polares" class="verdfort" href="http://www.tuaregviatges.es/viajes_polos/viajes_rutas_polares.html" title="Viajes a Rutas Polares">Rutas Polares</a></div>
+              </span>
+              <div id=rutas_polares_menu class="sep_menu_subtitol" style="display:none">
+                          
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="antartida" class="grisfort ca" href=http://www.tuaregviatges.es/rutaspolares_antartico.html title="viajes a Antartida">Antartida</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="artico" class="grisfort ca" href=http://www.tuaregviatges.es/rutaspolares_artico.html title="viajes a Artico">Artico</a></div> </div>
+<div class="sep_menu_sub_subtitol">  <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu cl_grisfort"> <a id="groenlandia" class="grisfort ca" href=http://www.tuaregviatges.es/europa_groenlandia.html title="viajes a Groenlandia">Groenlandia</a></div> </div>
+              </div>
+             
+         </div>
+          <div class="sep_menu cf_verdfort" id="ofertas_estacionales">&nbsp; </div>
+         <div class="sep_menu_titol"><span onclick="dropb('ofertas_estacionales_menu');dropb('ofertas_estacionales_mes');dropb('ofertas_estacionales_menys');">
+              <div class="mes_seccio_menu" id=ofertas_estacionales_mes style="display:none"> + </div>
+              <div class="mes_seccio_menu" id=ofertas_estacionales_menys style="display:block"><div class="menys cf_verdfort">&nbsp;</div></div>
+              <div class="titol_seccio_menu">OFERTAS ESTACIONALES</div></span>
+         </div>
+         <div id=ofertas_estacionales_menu class="sep_menu_subtitol"  style="display:block">
+                                           <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu">  <a class="grisfort" id="proximas_salidas" href="http://www.tuaregviatges.es/proximas_salidas.html" title="Pr&oacute;ximas salidas garantizadas">Pr&oacute;ximas salidas en grupo garantizadas</a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" >  ></div><div class="titol_sub_subseccio_menu"> <a class="grisfort" id="grandes_viajes" href="http://ofertas.tuaregviatges.es/" title="Viajes con precios reducidos">Grandes viajes a precios reducidos</a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu">  <a class="grisfort" id="ultimas_plazas" href="http://www.tuaregviatges.es/proximas_salidas.html" title="Viajes con salidas en pocos días">&Uacute;ltimas plazas</a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu">  <a class="grisfort" id="navidad" href="http://www.tuaregviatges.es/viajes_navidad.html" title="Viajes Navidad y fin de año 2015">Viajes Navidad</a>
+                      </div></div>
+         </div>
+         <div class="sep_menu cf_verdfort" id="viajes_tematicos">&nbsp; </div>
+         <div class="sep_menu_titol"><span onclick="dropb('viajes_tematicos_menu');dropb('viajes_tematicos_mes');dropb('viajes_tematicos_menys');">
+              <div class="mes_seccio_menu" id=viajes_tematicos_mes style="display:none"> + </div>
+              <div class="mes_seccio_menu" id=viajes_tematicos_menys style="display:block"><div class="menys cf_verdfort">&nbsp;</div></div>
+              <div class="titol_seccio_menu">VIAJES TEM&Aacute;TICOS</div></span>
+         </div>
+         <div id=viajes_tematicos_menu class="sep_menu_subtitol"  style="display:block">
+                     <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"  > > </div><div class="titol_sub_subseccio_menu cl_grisfort" >  <a id=astronomia_viajes class="grisfort" href="http://astronomia.tuaregviatges.es/" title="Viajes de Astronom&iacutea">Astronom&iacute;a y viajes</a>
+               </div></div>
+                      <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu cl_grisfort" > <a id=fotograficos_viajes class="grisfort" href="http://www.tuaregviatges.es/viajes_fotograficos.html" title="Viajes para fotografiar">Viajes fotogr&aacute;ficos</a>
+               </div></div>
+                      <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu cl_grisfort" > <a id=cientificos_viajes class="grisfort" href="http://www.tuaregviatges.es/viajes_cientificos.html" title="Viajes cient&iacuteficos">Ciencia y viajes</a>
+               </div></div>
+                     <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu cl_grisfort" > <a id=Safaris_africa class="grisfort" href="http://www.tuaregviatges.es/safaris_africa.html" title="Safaris¨África 4x4">Safaris &Aacute;frica</a>
+               </div></div>
+                      <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu cl_grisfort" > <a id=rutas_bicicletas class="grisfort" href="http://www.tuaregviatges.es/rutas_en_bicicleta.html" title="Rutas en bicicleta">Rutas en bicicleta</a>
+               </div></div>
+                       <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula" > > </div><div class="titol_sub_subseccio_menu cl_grisfort" > <a id=festivales_viajes class="grisfort" href="http://www.tuaregviatges.es/viajes_festivales_del_mundo.html" title="Festivales del Mundo">Festivales del Mundo</a>
+               </div></div>
+         </div>
+         <div class="sep_menu cf_verdfort" id="soloengrupo">&nbsp;</div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu">&nbsp;</div>
+              <div class="titol_seccio_menu"><a class="verdfort" href="http://viajarsolo.tuaregviatges.es/" title="SOLo EN GRUPo">VIAJES SOLo EN GRUPo</a></div>
+         </div>
+         <div class="sep_menu cf_verdfort" id="buscatuviaje">&nbsp;</div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu">&nbsp;</div>
+              <div class="titol_seccio_menu"><a class="verdfort" href="http://www.tuaregviatges.es/encuentra_tu_viaje.html#buscador" title="Viajes y ofertas">ENCUENTRA TU VIAJE</a></div>
+         </div>
+
+         <div class="sep_menu cf_verdfort" id="clasificacion_viaje">&nbsp; </div>
+         <div class="sep_menu_titol">
+              <span onclick="dropb('clasificacion_viaje_menu');dropb('clasificacion_viaje_mes');dropb('clasificacion_viaje_menys');">
+              <div class="mes_seccio_menu" id=clasificacion_viaje_mes style="display:table"> + </div>
+              <div class="mes_seccio_menu" id=clasificacion_viaje_menys style="display:none"><div class="menys cf_verdfort">&nbsp;</div></div>
+
+              <div class="titol_seccio_menu">CLASIFICACI&Oacute;N<br> DE VIAJES</div> </span>
+         </div>
+          <div id=clasificacion_viaje_menu class="sep_menu_subtitol"  style="display:none">
+                             <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="tipodeviaje" class="grisfort" href="http://www.tuaregviatges.es/clasificacion_viaje_tipodeviaje.html">Tipo de viaje  </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="comoviajar" class="grisfort" href="http://www.tuaregviatges.es/clasificacion_viaje_comoviajar.html">Como viajar   </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="experiencias" class="grisfort" href="http://www.tuaregviatges.es/clasificacion_viaje_experiencias.html">Experiencias  </a>
+                      </div></div>
+         </div>
+
+
+         <div class="sep_menu cf_verdfort" id="reservas_y_condiciones">&nbsp; </div>
+         <div class="sep_menu_titol">
+              <span onclick="dropb('reservas_y_condiciones_menu');dropb('reservas_y_condiciones_mes');dropb('reservas_y_condiciones_menys');">
+              <div class="mes_seccio_menu" id=reservas_y_condiciones_mes style="display:table"> + </div>
+              <div class="mes_seccio_menu" id=reservas_y_condiciones_menys style="display:none"><div class="menys cf_verdfort">&nbsp;</div></div>
+
+              <div class="titol_seccio_menu">RESERVAS Y CONDICIONES</div> </span>
+         </div>
+          <div id=reservas_y_condiciones_menu class="sep_menu_subtitol"  style="display:none">
+                            <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="reservas" class="grisfort" href="http://www.tuaregviatges.es/paginas/reservas/solicitud_reservas.php">Reservas   </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="condiciones_generales" class="grisfort" href="http://www.tuaregviatges.es/condiciones_generales.html">Condiciones generales  </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="seguros_viajes" class="grisfort" href="http://www.tuaregviatges.es/seguros_viajes.html">Seguro de viaje</a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="encuesta" class="grisfort" href="http://www.tuaregviatges.es/paginas/encuesta/encuesta.php">Encuesta post-viaje </a>
+                      </div></div>
+         </div>
+
+         <div class="sep_menu cf_verdfort" id="conociendo_viatges_tuareg">&nbsp; </div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu">&nbsp;</div>
+              <div class="titol_seccio_menu"><a class="verdfort" href="http://www.tuaregviatges.es/equipo_viajes_tuareg.html">CONOCIENDO <br>VIATGES TUAREG</a></div>
+         </div>
+
+         <div class="sep_menu cf_verdfort" id="concurso_de_fotografia_y_video">&nbsp; </div>
+         <div class="sep_menu_titol"><span onclick="dropb('concurso_de_fotografia_y_video_menu');dropb('concurso_de_fotografia_y_video_mes');dropb('concurso_de_fotografia_y_video_menys');">
+              <div class="mes_seccio_menu" id=concurso_de_fotografia_y_video_mes style="display:table"> + </div>
+              <div class="mes_seccio_menu" id=concurso_de_fotografia_y_video_menys style="display:none"><div class="menys cf_verdfort">&nbsp;</div></div>
+              <div class="titol_seccio_menu">CONCURSO<br>DE FOTOGRAFIA Y VIDEO</div> </span>
+         </div>
+          <div id=concurso_de_fotografia_y_video_menu class="sep_menu_subtitol"  style="display:none">
+                                   <div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="condiciones"class="grisfort" href="http://www.tuaregviatges.es/concurso/concursofotografia_bases.php">Condiciones de participaci&oacute;n  </a>
+                                   
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="fotografiapremios2014" class="grisfort" href="http://www.tuaregviatges.es/concurso/concursofotografia.php?hrt=_ca">2014 premios fotografía</a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="videopremios2014" class="grisfort" href="http://www.tuaregviatges.es/concurso/concursovideo.php?hrt=_ca">2014 premios v&iacute;deo  </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="fotografiapremios2013" class="grisfort" href="http://www.tuaregviatges.es/concurso/2013/concursofotografia.php">2013 premios fotograf&iacute;a    </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="videopremios2013" class="grisfort" href="http://www.tuaregviatges.es/concurso/2013/concursovideo.php">2013 premios video  </a>
+
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="fotografiapremios2012" class="grisfort" href="http://www.tuaregviatges.es/concurso/2012/concursofotografia.php">2012 premios fotograf&iacute;a    </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="videopremios2012" class="grisfort" href="http://www.tuaregviatges.es/concurso/2012/concursovideo.php">2012 premios video  </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="fotografiapremios2011" class="grisfort" href="http://www.tuaregviatges.es/concurso/2011/concursofotografia.php">2011 premios fotograf&iacute;a   </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="videopremios2011" class="grisfort" href="http://www.tuaregviatges.es/concurso/2011/concursovideo.php">2011 premios video  </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="fotografiapremios2010" class="grisfort" href="http://www.tuaregviatges.es/concurso/2010/concursofotografia.php">2010 premios fotograf&iacute;a   </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="videopremios2010" class="grisfort" href="http://www.tuaregviatges.es/concurso/2010/concursovideo.php">2010 premios video  </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu">  <a id="fotografiapremios2009" class="grisfort" href="http://www.tuaregviatges.es/concurso/2009/concursofotografia.php">2009 premios fotograf&iacute;a   </a>
+                      </div></div><div class="sep_menu_sub_subtitol"> <div class="mes_fletxa cl_vermellteula"> > </div><div class="titol_sub_subseccio_menu"> <a id="fotografiapremios2008" class="grisfort" href="http://www.tuaregviatges.es/concurso/2008/concursofotografia.php">2008 premios fotograf&iacute;a   </a>
+                      </div></div>
+         </div>
+
+
+
+         <div class="sep_menu cf_verdfort" id="contactar">&nbsp; </div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu">&nbsp;</div>
+              <div class="titol_seccio_menu"> <a class="verdfort" href="http://www.tuaregviatges.es/contactar.php">CONTACTAR</a></div>
+         </div>
+
+         <div class="sep_menu cf_verdfort" id="contactar">&nbsp; </div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu">&nbsp;</div>
+              <div class="titol_seccio_menu"> <a class="verdfort" href="http://tuaregviatges.es/blog/">BLOG VIAJES TUAREG</a></div>
+         </div>
+          <div class="sep_menu cf_verdfort" id="contactar">&nbsp; </div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu">&nbsp;</div>
+              <div class="titol_seccio_menu"> <a class="verdfort" href="http://tuaregviatges.es/articulos/Charlas_viajeras_conoce_tu_destino.html">CHARLAS VIAJERAS</a></div>
+         </div>
+
+         <div class="sep_menu cf_verdfort">&nbsp; </div>
+         <div class="sep_menu_titol">
+              <div class="mes_seccio_menu"> &nbsp;<img class="applus" src="http://www.tuaregviatges.es/fotos/aplustuaregxweb.png"  ></div>
+              <div class="titol_seccio_menu">
+                   <span class="n">
+                   CERTIFICADO <br>
+                   DE <span class="b">CALIDAD</span>
+                   <P class="iso b">ISO 9001: 2008</P>
+                   </span>
+              </div>
+         </div>
+
+
+         <div class="sep_menu_xarxes">
+                   <a href="http://www.youtube.com/user/ViatgesTuareg?ob=0&feature=results_main" title="Viajes Tuareg en Youtube" target="_blank"><div class="xarxes_socials" id="youtube"></div>  </a>
+                  <a href="https://twitter.com/viatgestuareg" title="Viajes Tuareg en el Twitter" target="_blank"><div class="xarxes_socials" id="twitter"></div>  </a>
+                  <a  href="https://plus.google.com/+ViatgesTuaregBarcelona/posts" title="Google+ Viajes Tuareg" target="_blank"><div class="xarxes_socials" id="google"></div>  </a>
+                   <a href="https://plus.google.com/+ViatgesTuaregBarcelona?rel=author"></a>
+                    <div class="xarxes_socials" >
+                    <a href="#sideBarTab" id="sideBarTab"><img src="http://www.tuaregviatges.es/fotos/slide-button.png" alt="Viajes Tuareg en Facebook" title="Viajes Tuareg en Facebook" /></a>
+                    <div id="sideBar">
+                         <div id="sideBarContents" style="display:none;">
+                            <div id="sideBarContentsInner">
+                                <iframe src="http://www.facebook.com/plugins/likebox.php?id=120425304635938&amp;width=292&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:255px;" allowTransparency="false"></iframe>
+                            </div>
+                        </div>
+                    </div>
+         </div>        <SCRIPT type=text/javascript >
+           marcag( 'buscatuviaje' );
+        </SCRIPT>
+     </td>
+     <td class="col_blanc">                &nbsp;      </td>
+     <td class="col_central  cf_verdblanc cl_verdblanc">
+            
+           <div class="superior cf_facebook cl_verdblanc">
+               <div class="buscador cf_vermellteula cl_verdblanc">
+                  <object  classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="100" height="20" id="buscadorfletxes" align="top">
+                  <param name="allowScriptAccess" value="sameDomain" />
+                  <param name="allowFullScreen" value="false" />
+                  <param name="movie" value="/fletxesbuscador.swf" />
+                  <param name="quality" value="high" />
+                  <param name="wmode" value="transparent"/>
+                  <param name="bgcolor" value="#4B5B4F" />
+                  <embed src="/fletxesbuscador.swf"  quality="high" bgcolor="#4B5B4F" width="100" height="20" name="fletxesbuscador" align="top" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+                  </object> 
+               </div>
+               <form method="get" action="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php#buscador"  enctype='multipart/form-data' name=busqueda>
+               <div class="go  cf_vermellteula cl_verdblanc"><input type="submit" class="go  cf_vermellteula cl_verdblanc" value=GO></div><div class="buscar  cf_vermellteula"><input id="input_busca" name="busca" type="text" class="buscar  cl_vermellteula" value="ESCRIBE LO QUE BUSCAS" onfocus="javascript:if(this.value=='ESCRIBE LO QUE BUSCAS')this.value='';"><input id="hrt" name="hrt" type="hidden" value=''></div></form>
+                <div class="facebook  cl_vermellteula cf_gris ">
+                <script  type="text/javascript" >
+                  var sPath = window.location.pathname;
+                  var sPathURI =  encodeURIComponent(sPath);
+                  var cadenafacebook = '<iframe id=facebook src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com/ViajesTuareg&amp;layout=button_count&amp;show_faces=true&amp;width=125&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=20" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:125px; height:20px;" allowTransparency="true"></iframe>';
+                  document.write(cadenafacebook);
+                </script>
+                </div> 
+                <script  type="text/javascript" >
+                  var sPath = window.location.pathname;
+                  var sPathURI = encodeURIComponent(sPath);
+                  var cadenaamigo = '<a class=verdfort title="Envíe esta página por correo electrónico" onmouseover="window.status=' + "'Envíe esta página por correo electrónico'" + '; return true;" href="mailto:?subject=Que te parece este viaje&amp;body=http://www.tuaregviatges.es' + sPath + '"> <div class=amigo > Enviar a un amigo </div></a>';
+                  document.write(cadenaamigo);
+                </script>
+
+                   <a class="verdfort"  href="javascript:bookmarksite()" title='Agregue esta página a sus favoritos' onmouseover="window.status='Agregue esta página a sus favoritos'; return true"   onmouseout="window.status='';  return true" ><div class=favorita>Guardar como favorita </div></a>
+               <a class="verdfort"   href='http://www.tuaregviatges.es' title='Viajes Tuareg - Viajes de Aventura'><div class=home>HOME</div></a>
+          </div>            <SCRIPT type=text/javascript >
+            target = document.getElementById( 'input_busca' );
+            target.value = "serg";
+            </script>
+            <div  class="capsalera_dibuix">
+             <table  class="capsalera_dibuix_titol cf_verdfort" >
+               <tr>
+                 <td class="col_capsalera">
+                   <h1>
+                  <div class="capsalera_dibuix_titol_b">0</div>
+                  <div class="capsalera_subtitol_b">rutas encontradas</div>
+                  </h1>
+               </td>
+               <td class="col_capsalera">
+               </td></tr>
+               <tr><td class="col_capsalera_bus cf_gris">
+                 <a class="cl_verdblanc" href="/busca/encuentra_tu_viaje.php?busca=serg"><div class="oferta_opcio">Parece que no tenemos lo que buscas.</div> </a>
+                 <a class="cl_verdfort" href="/busca/encuentra_tu_viaje.php?busca=serg"><div class="oferta_opcio"></div> </a>
+                 <a href="/busca/encuentra_tu_viaje.php?busca=serg"><div class="oferta_opcio"></div> </a>
+                 <a href="/busca/encuentra_tu_viaje.php?busca=serg"><div class="oferta_opcio"></div> </a>
+                 <a href="/busca/encuentra_tu_viaje.php?busca=serg"><div class="oferta_opcio"></div> </a>
+                 <a href="/busca/encuentra_tu_viaje.php?busca=serg"><div class="oferta_opcio"></div> </a>
+               </td>
+               <td class="col_capsalera_des cf_gris">
+               </td></tr>
+               </table>
+
+               <div class="page-tuareg6  cl_verdtuareg">
+                <nav id="breadcrumb" class="page-continent" itemscope ItemType = "http://schema.org/TravelAction" >
+                   <ul class="page-tuareg6" xmlns:v="http://rdf.data-vocabulary.org/#" itemprop="breadcrumb" itemscope itemtype="http://schema.org/Breadcrumb">
+                                 <li class="page-tuareg6" typeof="v:Breadcrumb"><a  class="verdfort" title="Viajes de aventura. Tuareg" href="http://tuaregviatges.es" rel="v:url" property="v:title" itemprop="url"><span itemprop="name">Viajes Tuareg   &gt; </span></a>   </li>
+                                 <li class="page-tuareg6" typeof="v:Breadcrumb"><a  class="verdfort" title="Busca tus viajes en Tuareg" href="http://tuaregviatges.es/busca/encuentra_tu_viaje.php#buscador" rel="v:url" property="v:title" itemprop="url"><span itemprop="location">Busca tus viajes aqu&iacute;</span></a>   </li>
+                  </ul>
+                </nav>
+                </div>
+
+
+
+               <div  class="capsalera_dibuix_imatge_mig" style="background-position: right bottom;  background-repeat: no-repeat;background-image: url(/fotos/Gnoia.png);">  &nbsp;    </div>
+          </div>
+
+
+             
+                            
+     </td>
+
+    <td class=col_blanc>&nbsp;</td>
+    <td class="col_dreta cf_verdblanc cl_verdfort">
+                       <div class="superior  cl_verdblanc cf_verdfort"><div class="buscador_e"> BUSCADOR</div></div>
+               <div class="sep_buscador cf_verdfort">&nbsp; </div>
+               <div class="titol_seccio_buscador cl_verdtuareg">FECHAS SALIDA</div>
+                   
+                   <span onclick="drop('busca_2015_menu');">
+                    <div class="titol_subseccio_buscador cl_verdfort">2015</div>
+                    </span>
+                    <div  id=busca_2015_menu  class="bloc_buscador" style="display:none">
+                        
+ <a id="2015-11"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2015&calendario=2015-11#buscador"> <div class="check_buscador cl_verdfort">Noviembre</div></a>
+ <a id="2015-12"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2015&calendario=2015-12#buscador"> <div class="check_buscador cl_verdfort">Diciembre</div></a>
+                    </div>
+                   
+                   <span onclick="drop('busca_2016_menu');">
+                    <div class="titol_subseccio_buscador cl_verdfort">2016</div>
+                    </span>
+                    <div  id=busca_2016_menu  class="bloc_buscador" style="display:none">
+                        
+ <a id="2016-1"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-1#buscador"> <div class="check_buscador cl_verdfort">Enero</div></a>
+ <a id="2016-2"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-2#buscador"> <div class="check_buscador cl_verdfort">Febrero</div></a>
+ <a id="2016-3"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-3#buscador"> <div class="check_buscador cl_verdfort">Marzo</div></a>
+ <a id="2016-4"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-4#buscador"> <div class="check_buscador cl_verdfort">Abril</div></a>
+ <a id="2016-5"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-5#buscador"> <div class="check_buscador cl_verdfort">Mayo</div></a>
+ <a id="2016-6"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-6#buscador"> <div class="check_buscador cl_verdfort">Junio</div></a>
+ <a id="2016-7"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-7#buscador"> <div class="check_buscador cl_verdfort">Julio</div></a>
+ <a id="2016-8"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-8#buscador"> <div class="check_buscador cl_verdfort">Agosto</div></a>
+ <a id="2016-9"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-9#buscador"> <div class="check_buscador cl_verdfort">Septiembre</div></a>
+ <a id="2016-10"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-10#buscador"> <div class="check_buscador cl_verdfort">Octubre</div></a>
+ <a id="2016-11"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-11#buscador"> <div class="check_buscador cl_verdfort">Noviembre</div></a>
+ <a id="2016-12"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2016&calendario=2016-12#buscador"> <div class="check_buscador cl_verdfort">Diciembre</div></a>
+                    </div>
+                   
+                   <span onclick="drop('busca_2017_menu');">
+                    <div class="titol_subseccio_buscador cl_verdfort">2017</div>
+                    </span>
+                    <div  id=busca_2017_menu  class="bloc_buscador" style="display:none">
+                        
+ <a id="2017-4"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?anyo=2017&calendario=2017-4#buscador"> <div class="check_buscador cl_verdfort">Abril</div></a>
+                    </div>
+                   
+               <div class="sep_buscador cf_verdfort">&nbsp; </div>
+                <div class="titol_seccio_buscador cl_verdtuareg">TIPO DE VIAJE</div>
+                    <div class="bloc_buscador">
+                    <a id="med"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?tipodeviajeid=med&tipodeviaje=A%20medida#buscador"> <div class="check_buscador cl_verdfort">A medida</div></a>
+                    <a id="gru"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?tipodeviajeid=gru&tipodeviaje=Grupos%20Reducidos#buscador"><div class="check_buscador cl_verdfort">Grupos reducidos</div></a>
+               </div>
+               <div class="sep_buscador cf_verdfort">&nbsp; </div>
+                    <div class="titol_seccio_buscador cl_verdtuareg">COMO VIAJAR</div>
+                    <div class="bloc_buscador">
+                    
+ <a id="comoviajar_4"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?comoviajarid=4&comoviajar=A%20bordo#buscador"><div class="check_buscador cl_verdfort"> A bordo</div></a>
+ <a id="comoviajar_8"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?comoviajarid=8&comoviajar=En%20bicicleta#buscador"><div class="check_buscador cl_verdfort"> En bicicleta</div></a>
+ <a id="comoviajar_5"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?comoviajarid=5&comoviajar=Multiactividad#buscador"><div class="check_buscador cl_verdfort"> Multiactividad</div></a>
+ <a id="comoviajar_6"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?comoviajarid=6&comoviajar=Rutas%20auto-guiadas%20F%26D#buscador"><div class="check_buscador cl_verdfort"> Rutas auto-guiadas F&D</div></a>
+ <a id="comoviajar_1"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?comoviajarid=1&comoviajar=Rutas%20de%20aventura#buscador"><div class="check_buscador cl_verdfort"> Rutas de aventura</div></a>
+ <a id="comoviajar_3"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?comoviajarid=3&comoviajar=Trekking%20y%20senderismo#buscador"><div class="check_buscador cl_verdfort"> Trekking y senderismo</div></a>
+ <a id="comoviajar_2"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?comoviajarid=2&comoviajar=Viajes%20excepcionales#buscador"><div class="check_buscador cl_verdfort"> Viajes excepcionales</div></a>
+                    </div>
+               <div class="sep_buscador cf_verdfort">&nbsp; </div>
+               <div class="titol_seccio_buscador cl_verdtuareg">EXPERIENCIAS</div>
+                    <div class="bloc_buscador">
+                    
+<a id="experiencias_"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=&experiencias=#buscador"><div class="check_buscador cl_verdfort"> </div></a>
+<a id="experiencias_2"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=2&experiencias=Active#buscador"><div class="check_buscador cl_verdfort"> Active</div></a>
+<a id="experiencias_11"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=11&experiencias=Astronomia%20y%20viajes#buscador"><div class="check_buscador cl_verdfort"> Astronomia y viajes</div></a>
+<a id="experiencias_4"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=4&experiencias=Con%20Estilo#buscador"><div class="check_buscador cl_verdfort"> Con Estilo</div></a>
+<a id="experiencias_3"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=3&experiencias=Desiertos#buscador"><div class="check_buscador cl_verdfort"> Desiertos</div></a>
+<a id="experiencias_7"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=7&experiencias=Fenomenos%20naturales#buscador"><div class="check_buscador cl_verdfort"> Fenomenos naturales</div></a>
+<a id="experiencias_5"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=5&experiencias=Festivales%20del%20Mundo#buscador"><div class="check_buscador cl_verdfort"> Festivales del Mundo</div></a>
+<a id="experiencias_1"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=1&experiencias=Historia%20y%20arqueologia#buscador"><div class="check_buscador cl_verdfort"> Historia y arqueologia</div></a>
+<a id="experiencias_8"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=8&experiencias=Naturaleza%20y%20grandes%20espacios#buscador"><div class="check_buscador cl_verdfort"> Naturaleza y grandes espacios</div></a>
+<a id="experiencias_9"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=9&experiencias=Otros%20pueblos#buscador"><div class="check_buscador cl_verdfort"> Otros pueblos</div></a>
+<a id="experiencias_10"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=10&experiencias=Rutas%20polares#buscador"><div class="check_buscador cl_verdfort"> Rutas polares</div></a>
+<a id="experiencias_13"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=13&experiencias=Safaris#buscador"><div class="check_buscador cl_verdfort"> Safaris</div></a>
+<a id="experiencias_12"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=12&experiencias=Viajes%20fotograficos#buscador"><div class="check_buscador cl_verdfort"> Viajes fotograficos</div></a>
+<a id="experiencias_6"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?experienciasid=6&experiencias=Vida%20Salvaje#buscador"><div class="check_buscador cl_verdfort"> Vida Salvaje</div></a>
+                    </div>
+               <div class="sep_buscador cf_verdfort">&nbsp; </div>
+                    <div class="titol_seccio_buscador cl_verdtuareg">DESTINO</div>
+                    
+                    <span onclick="drop('busca_africa_menu');dropb('busca_africa_menys');dropb('busca_africa_mes');">
+                    <div class="titol_subseccio_buscador cl_verdfort">  <div  id="busca_africa_mes" class="check_mes" style="diplay:none"> + </div>  <div  id="busca_africa_menys" class="check_mes" style="display:none"> <div class="menys_check cf_verdfort">&nbsp;</div></div><div class=check_label> &Aacute;frica </div>  </div>
+                    </span>
+                    <div class="bloc_buscador" id=busca_africa_menu style="display:none">
+                       
+ <a id="Botswana"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Botswana#buscador"><div class="check_buscador cl_verdfort">Botswana </div></a> 
+ <a id="Burkina faso"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Burkina faso#buscador"><div class="check_buscador cl_verdfort">Burkina faso </div></a> 
+ <a id="Camerun"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Camerun#buscador"><div class="check_buscador cl_verdfort">Camerun </div></a> 
+ <a id="Costa de marfil"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Costa de marfil#buscador"><div class="check_buscador cl_verdfort">Costa de marfil </div></a> 
+ <a id="Egipto"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Egipto#buscador"><div class="check_buscador cl_verdfort">Egipto </div></a> 
+ <a id="Etiopia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Etiopia#buscador"><div class="check_buscador cl_verdfort">Etiopia </div></a> 
+ <a id="Kenya"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Kenya#buscador"><div class="check_buscador cl_verdfort">Kenya </div></a> 
+ <a id="Madagascar"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Madagascar#buscador"><div class="check_buscador cl_verdfort">Madagascar </div></a> 
+ <a id="Malawi"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Malawi#buscador"><div class="check_buscador cl_verdfort">Malawi </div></a> 
+ <a id="Mali"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Mali#buscador"><div class="check_buscador cl_verdfort">Mali </div></a> 
+ <a id="Marruecos"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Marruecos#buscador"><div class="check_buscador cl_verdfort">Marruecos </div></a> 
+ <a id="Mozambique"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Mozambique#buscador"><div class="check_buscador cl_verdfort">Mozambique </div></a> 
+ <a id="Namibia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Namibia#buscador"><div class="check_buscador cl_verdfort">Namibia </div></a> 
+ <a id="Rwanda"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Rwanda#buscador"><div class="check_buscador cl_verdfort">Rwanda </div></a> 
+ <a id="S&atilde;o tom&eacute; y principe"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=S&atilde;o tom&eacute; y principe#buscador"><div class="check_buscador cl_verdfort">S&atilde;o tom&eacute; y principe </div></a> 
+ <a id="Senegal"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Senegal#buscador"><div class="check_buscador cl_verdfort">Senegal </div></a> 
+ <a id="Sudafrica"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Sudafrica#buscador"><div class="check_buscador cl_verdfort">Sudafrica </div></a> 
+ <a id="Sudan"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Sudan#buscador"><div class="check_buscador cl_verdfort">Sudan </div></a> 
+ <a id="Tanzania"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Tanzania#buscador"><div class="check_buscador cl_verdfort">Tanzania </div></a> 
+ <a id="Tunez"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Tunez#buscador"><div class="check_buscador cl_verdfort">Tunez </div></a> 
+ <a id="Uganda"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Uganda#buscador"><div class="check_buscador cl_verdfort">Uganda </div></a> 
+ <a id="Zambia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Zambia#buscador"><div class="check_buscador cl_verdfort">Zambia </div></a> 
+ <a id="Zimbawe"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=africa&pais=Zimbawe#buscador"><div class="check_buscador cl_verdfort">Zimbawe </div></a> 
+                    </div>
+                    
+                    <span onclick="drop('busca_america_del_norte_y_central_menu');dropb('busca_america_del_norte_y_central_menys');dropb('busca_america_del_norte_y_central_mes');">
+                    <div class="titol_subseccio_buscador cl_verdfort">  <div  id="busca_america_del_norte_y_central_mes" class="check_mes" style="diplay:none"> + </div>  <div  id="busca_america_del_norte_y_central_menys" class="check_mes" style="display:none"> <div class="menys_check cf_verdfort">&nbsp;</div></div><div class=check_label> Am&eacute;rica del norte y central </div>  </div>
+                    </span>
+                    <div class="bloc_buscador" id=busca_america_del_norte_y_central_menu style="display:none">
+                       
+ <a id="Alaska"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Alaska#buscador"><div class="check_buscador cl_verdfort">Alaska </div></a> 
+ <a id="Canada"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Canada#buscador"><div class="check_buscador cl_verdfort">Canada </div></a> 
+ <a id="Costa rica"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Costa rica#buscador"><div class="check_buscador cl_verdfort">Costa rica </div></a> 
+ <a id="Cuba"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Cuba#buscador"><div class="check_buscador cl_verdfort">Cuba </div></a> 
+ <a id="El salvador"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=El salvador#buscador"><div class="check_buscador cl_verdfort">El salvador </div></a> 
+ <a id="Estados unidos"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Estados unidos#buscador"><div class="check_buscador cl_verdfort">Estados unidos </div></a> 
+ <a id="Guatemala"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Guatemala#buscador"><div class="check_buscador cl_verdfort">Guatemala </div></a> 
+ <a id="Honduras"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Honduras#buscador"><div class="check_buscador cl_verdfort">Honduras </div></a> 
+ <a id="M&eacute;xico"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=M&eacute;xico#buscador"><div class="check_buscador cl_verdfort">M&eacute;xico </div></a> 
+ <a id="Nicaragua"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_norte_y_central&pais=Nicaragua#buscador"><div class="check_buscador cl_verdfort">Nicaragua </div></a> 
+                    </div>
+                    
+                    <span onclick="drop('busca_america_del_sur_menu');dropb('busca_america_del_sur_menys');dropb('busca_america_del_sur_mes');">
+                    <div class="titol_subseccio_buscador cl_verdfort">  <div  id="busca_america_del_sur_mes" class="check_mes" style="diplay:none"> + </div>  <div  id="busca_america_del_sur_menys" class="check_mes" style="display:none"> <div class="menys_check cf_verdfort">&nbsp;</div></div><div class=check_label> Am&eacute;rica del sur </div>  </div>
+                    </span>
+                    <div class="bloc_buscador" id=busca_america_del_sur_menu style="display:none">
+                       
+ <a id="Argentina"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Argentina#buscador"><div class="check_buscador cl_verdfort">Argentina </div></a> 
+ <a id="Bolivia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Bolivia#buscador"><div class="check_buscador cl_verdfort">Bolivia </div></a> 
+ <a id="Brasil"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Brasil#buscador"><div class="check_buscador cl_verdfort">Brasil </div></a> 
+ <a id="Chile"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Chile#buscador"><div class="check_buscador cl_verdfort">Chile </div></a> 
+ <a id="Colombia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Colombia#buscador"><div class="check_buscador cl_verdfort">Colombia </div></a> 
+ <a id="Ecuador"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Ecuador#buscador"><div class="check_buscador cl_verdfort">Ecuador </div></a> 
+ <a id="Peru"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Peru#buscador"><div class="check_buscador cl_verdfort">Peru </div></a> 
+ <a id="Venezuela"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=america_del_sur&pais=Venezuela#buscador"><div class="check_buscador cl_verdfort">Venezuela </div></a> 
+                    </div>
+                    
+                    <span onclick="drop('busca_asia_menu');dropb('busca_asia_menys');dropb('busca_asia_mes');">
+                    <div class="titol_subseccio_buscador cl_verdfort">  <div  id="busca_asia_mes" class="check_mes" style="diplay:none"> + </div>  <div  id="busca_asia_menys" class="check_mes" style="display:none"> <div class="menys_check cf_verdfort">&nbsp;</div></div><div class=check_label> Asia </div>  </div>
+                    </span>
+                    <div class="bloc_buscador" id=busca_asia_menu style="display:none">
+                       
+ <a id="Bhutan"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Bhutan#buscador"><div class="check_buscador cl_verdfort">Bhutan </div></a> 
+ <a id="Camboya"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Camboya#buscador"><div class="check_buscador cl_verdfort">Camboya </div></a> 
+ <a id="China"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=China#buscador"><div class="check_buscador cl_verdfort">China </div></a> 
+ <a id="Emiratos arabes"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Emiratos arabes#buscador"><div class="check_buscador cl_verdfort">Emiratos arabes </div></a> 
+ <a id="Georgia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Georgia#buscador"><div class="check_buscador cl_verdfort">Georgia </div></a> 
+ <a id="India"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=India#buscador"><div class="check_buscador cl_verdfort">India </div></a> 
+ <a id="Indonesia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Indonesia#buscador"><div class="check_buscador cl_verdfort">Indonesia </div></a> 
+ <a id="Iran"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Iran#buscador"><div class="check_buscador cl_verdfort">Iran </div></a> 
+ <a id="Japon"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Japon#buscador"><div class="check_buscador cl_verdfort">Japon </div></a> 
+ <a id="Jordania"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Jordania#buscador"><div class="check_buscador cl_verdfort">Jordania </div></a> 
+ <a id="Kazajst&aacute;n"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Kazajst&aacute;n#buscador"><div class="check_buscador cl_verdfort">Kazajst&aacute;n </div></a> 
+ <a id="Kyrgyzstan"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Kyrgyzstan#buscador"><div class="check_buscador cl_verdfort">Kyrgyzstan </div></a> 
+ <a id="Laos"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Laos#buscador"><div class="check_buscador cl_verdfort">Laos </div></a> 
+ <a id="Libano"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Libano#buscador"><div class="check_buscador cl_verdfort">Libano </div></a> 
+ <a id="Mongolia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Mongolia#buscador"><div class="check_buscador cl_verdfort">Mongolia </div></a> 
+ <a id="Myanmar-birmania"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Myanmar-birmania#buscador"><div class="check_buscador cl_verdfort">Myanmar-birmania </div></a> 
+ <a id="Nepal"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Nepal#buscador"><div class="check_buscador cl_verdfort">Nepal </div></a> 
+ <a id="Oman"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Oman#buscador"><div class="check_buscador cl_verdfort">Oman </div></a> 
+ <a id="Rusia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Rusia#buscador"><div class="check_buscador cl_verdfort">Rusia </div></a> 
+ <a id="Sri lanka"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Sri lanka#buscador"><div class="check_buscador cl_verdfort">Sri lanka </div></a> 
+ <a id="Tailandia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Tailandia#buscador"><div class="check_buscador cl_verdfort">Tailandia </div></a> 
+ <a id="Tibet"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Tibet#buscador"><div class="check_buscador cl_verdfort">Tibet </div></a> 
+ <a id="Uzbekistan"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Uzbekistan#buscador"><div class="check_buscador cl_verdfort">Uzbekistan </div></a> 
+ <a id="Vietnam"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=asia&pais=Vietnam#buscador"><div class="check_buscador cl_verdfort">Vietnam </div></a> 
+                    </div>
+                    
+                    <span onclick="drop('busca_australia_y_oceania_menu');dropb('busca_australia_y_oceania_menys');dropb('busca_australia_y_oceania_mes');">
+                    <div class="titol_subseccio_buscador cl_verdfort">  <div  id="busca_australia_y_oceania_mes" class="check_mes" style="diplay:none"> + </div>  <div  id="busca_australia_y_oceania_menys" class="check_mes" style="display:none"> <div class="menys_check cf_verdfort">&nbsp;</div></div><div class=check_label> Australia y ocean&iacute;a </div>  </div>
+                    </span>
+                    <div class="bloc_buscador" id=busca_australia_y_oceania_menu style="display:none">
+                       
+ <a id="Australia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=australia_y_oceania&pais=Australia#buscador"><div class="check_buscador cl_verdfort">Australia </div></a> 
+ <a id="Nueva zelanda"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=australia_y_oceania&pais=Nueva zelanda#buscador"><div class="check_buscador cl_verdfort">Nueva zelanda </div></a> 
+                    </div>
+                    
+                    <span onclick="drop('busca_europa_menu');dropb('busca_europa_menys');dropb('busca_europa_mes');">
+                    <div class="titol_subseccio_buscador cl_verdfort">  <div  id="busca_europa_mes" class="check_mes" style="diplay:none"> + </div>  <div  id="busca_europa_menys" class="check_mes" style="display:none"> <div class="menys_check cf_verdfort">&nbsp;</div></div><div class=check_label> Europa </div>  </div>
+                    </span>
+                    <div class="bloc_buscador" id=busca_europa_menu style="display:none">
+                       
+ <a id="Albania"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Albania#buscador"><div class="check_buscador cl_verdfort">Albania </div></a> 
+ <a id="Alemania"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Alemania#buscador"><div class="check_buscador cl_verdfort">Alemania </div></a> 
+ <a id="Austria"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Austria#buscador"><div class="check_buscador cl_verdfort">Austria </div></a> 
+ <a id="Bulgaria"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Bulgaria#buscador"><div class="check_buscador cl_verdfort">Bulgaria </div></a> 
+ <a id="Croacia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Croacia#buscador"><div class="check_buscador cl_verdfort">Croacia </div></a> 
+ <a id="Dinamarca"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Dinamarca#buscador"><div class="check_buscador cl_verdfort">Dinamarca </div></a> 
+ <a id="Eslovaquia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Eslovaquia#buscador"><div class="check_buscador cl_verdfort">Eslovaquia </div></a> 
+ <a id="Eslovenia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Eslovenia#buscador"><div class="check_buscador cl_verdfort">Eslovenia </div></a> 
+ <a id="Finlandia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Finlandia#buscador"><div class="check_buscador cl_verdfort">Finlandia </div></a> 
+ <a id="Grecia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Grecia#buscador"><div class="check_buscador cl_verdfort">Grecia </div></a> 
+ <a id="Hungr&iacute;a"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Hungr&iacute;a#buscador"><div class="check_buscador cl_verdfort">Hungr&iacute;a </div></a> 
+ <a id="Irlanda"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Irlanda#buscador"><div class="check_buscador cl_verdfort">Irlanda </div></a> 
+ <a id="Islandia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Islandia#buscador"><div class="check_buscador cl_verdfort">Islandia </div></a> 
+ <a id="Italia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Italia#buscador"><div class="check_buscador cl_verdfort">Italia </div></a> 
+ <a id="Kosovo"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Kosovo#buscador"><div class="check_buscador cl_verdfort">Kosovo </div></a> 
+ <a id="Macedonia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Macedonia#buscador"><div class="check_buscador cl_verdfort">Macedonia </div></a> 
+ <a id="Noruega"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Noruega#buscador"><div class="check_buscador cl_verdfort">Noruega </div></a> 
+ <a id="Portugal"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Portugal#buscador"><div class="check_buscador cl_verdfort">Portugal </div></a> 
+ <a id="Turquia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=europa&pais=Turquia#buscador"><div class="check_buscador cl_verdfort">Turquia </div></a> 
+                    </div>
+                    
+                    <span onclick="drop('busca_rutas_polares_menu');dropb('busca_rutas_polares_menys');dropb('busca_rutas_polares_mes');">
+                    <div class="titol_subseccio_buscador cl_verdfort">  <div  id="busca_rutas_polares_mes" class="check_mes" style="diplay:none"> + </div>  <div  id="busca_rutas_polares_menys" class="check_mes" style="display:none"> <div class="menys_check cf_verdfort">&nbsp;</div></div><div class=check_label> Rutas polares </div>  </div>
+                    </span>
+                    <div class="bloc_buscador" id=busca_rutas_polares_menu style="display:none">
+                       
+ <a id="Antartida"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=rutas_polares&pais=Antartida#buscador"><div class="check_buscador cl_verdfort">Antartida </div></a> 
+ <a id="Artico"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=rutas_polares&pais=Artico#buscador"><div class="check_buscador cl_verdfort">Artico </div></a> 
+ <a id="Groenlandia"  class="check_buscador"  href="http://www.tuaregviatges.es/busca/encuentra_tu_viaje.php?zona=rutas_polares&pais=Groenlandia#buscador"><div class="check_buscador cl_verdfort">Groenlandia </div></a> 
+                    </div>
+                    
+
+
+
+    </td>
+</table>
+
+
+<div  class="general_inferior cl_verdfort amaga" >
+Organizaci&oacute;n T&eacute;cnica de los viajes
+Viajes Tuareg S.A.
+GC MD-128 A-08726986 <span class="sep_menu_inferior cl_vermellteula">|</span>
+<a class="verdfort" href="http://www.tuaregviatges.es/equipo_viajes_tuareg.html">About Us</a> <span class="sep_menu_inferior cl_vermellteula">|</span>
+<a class="verdfort" href="http://www.tuaregviatges.es/contactar.html">Contact Us</a> <span class="sep_menu_inferior cl_vermellteula">|</span>
+<a class="verdfort" href="http://www.tuaregviatges.es/avisos_legales.html">Aviso Legal</a>
+<span class="sep_menu_inferior cl_vermellteula">|</span>
+<span class="desapareix">Dise&ntilde;o gr&aacute;fico: Judit Coma <span class="sep_menu_inferior cl_vermellteula">|</span></span>
+<span class="desapareix">Ilustraciones: Jordi Vila</span>
+<br>
+Powered by: <a class="verdfort" href="http://jmtweb.net.br" title="Web Sites">JMT Web Sites</a>
+</div>
+<img class="generalitat amaga" src="http://www.tuaregviatges.es/fotos/logogeneinnovaciobn.png">
+</div>
+
+
+</div>
+</center>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<HTML>
+<HEAD>
+<TITLE>Welcome to Shaw Webspace!</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=">
+</HEAD>
+<BODY BGCOLOR="#2175D9" text="#FFFFFF" link="#FAC541" vlink="#FAC541" alink="#FAC541">
+<table width="500" border="0" align="center">
+  <tr> 
+    <td height="97" colspan="2"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="550" height="120">
+        <param name=movie value="http://members.shaw.ca/fgafbanner.swf">
+        <param name=quality value=high>
+        <embed src="http://members.shaw.ca/fgafbanner.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="550" height="120"> 
+      </object> </td>
+    <td height="97" width="149"> <a href="http://www.shaw.ca" target="_blank"><img src="http://members.shaw.ca/logo.gif" width="147" height="65" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td height="85" colspan="2"><img src="http://members.shaw.ca/defaulttitle.gif" width="411" height="49"><br>
+      <img src="http://members.shaw.ca/webspacewelcome.gif" width="230" height="22"> <br>
+       </td>
+    <td height="27" rowspan="2" valign="top" width="149"> 
+      <p align="center">&nbsp;</p>
+    </td>
+  </tr>
+  <tr> 
+    <td valign="top" colspan="2"> 
+      <table width="580" border="0" align="center">
+        
+        
+        <tr valign="top"> 
+          <td colspan="4"> 
+            <div align="left"><b><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2">PAGE 
+              NOT FOUND</font></b> </div>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">The 
+              web page you are trying to access doesn't exist on members.shaw.ca<br>
+            <p><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Some 
+              Helpful Links: </font></p>
+            <ul>
+              <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://www.shaw.ca/en-ca/CustomerCare/InternetSupport/Residential/WebSpace/">WebSpace Help
+                </a></font></li>
+              <li><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="http://www.shaw.ca" target="_blank">Shaw 
+                Corporate</a> - Shaw's Corporate website. Visit this site for 
+                links to information on all of Shaw's available products and services.</font></li>
+            </ul>
+            <p><br>
+            </p>
+            <p><a href="http://www.shaw.ca/en-ca/CustomerCare/ContactUs/InformationDirectory.htm" target="_blank"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">Contact 
+              Us!</font></a></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p>
+<p align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="2">&#169 
+  copyright 2001, all rights reserved </font></p>
+</BODY>
+</HTML>
+
+

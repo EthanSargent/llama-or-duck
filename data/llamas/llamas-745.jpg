@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="HandheldFriendly" content="true">
+
+	<!-- Meta tags -->
+	
+	
+	
+
+	<!-- Open Graph tags -->
+	
+	
+	
+	
+	<!-- Jquery -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	<link href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700' rel='stylesheet' type='text/css'>
+
+	<!-- Default CSS / JS -->
+	<link rel='stylesheet' href='/includes/default.css' type='text/css' />
+	<link rel='stylesheet' href='/includes/application.css' type='text/css' />
+	<link rel='stylesheet' href='/includes/responsive.css' type='text/css' />
+
+	<script type='text/javascript' src='/includes/default.js'></script>
+
+
+    <!-- LWD popup -->
+	<script type='text/javascript' src='/jquery/lwd_popup/lwd_popup.js'></script>
+	<link rel='stylesheet' href='/jquery/lwd_popup/lwd_popup.css' type='text/css' />
+
+
+
+</head>
+
+<body class="static">
+
+	<div id="main">
+
+		<header role = "site-header">
+			<div class="container">
+				<div class="row">
+	    			
+	    			<div class="col-sm-3 col-md-3">
+						<a href="/" id="logo">
+				        	<img src="/images/layout/logo.png" />
+						</a>
+		
+			            <a href="#" class="fa fa-bars pull-right fa-2x btn btn-primary mobile-menu-button mt25 visible-xs"></a>
+					</div>
+				
+					<div class="col-sm-9 col-md-9">
+                        <div><form method="get" action="/search/">
+                            <a href="javascript:lwd_pop_open('/popups/newsletter-signup.php', '', '320')">Subscribe</a> | 
+                            800.932.2144 |
+                                <input type="text" name="q" />
+                             <img src="/images/layout/search-icon.png" />
+                            <input type="submit" value="Submit" style="display: none" />
+                        </form></div>
+						<!--<p>800.923.2144 | <a href="#"><img src="/images/layout/search-icon.png" /></a>
+
+                        </p>-->
+						<div class="navbar">
+							<div class="nav-collapse">
+								<ul class="nav navbar-nav">
+			
+									<li class=''><a href='//'></a></li><li class=' dropdown'><a href='#'>Destinations</a><ul class='dropdown-menu'><li class=''><a href='/things-to-do/attractions/'>Attractions</a></li><li class=''><a href='/things-to-do/outdoor-activities/'>Outdoor</a></li><li class=''><a href='/things-to-do/shopping/'>Shopping</a></li><li class=''><a href='/things-to-do/culture-history/'>History & Memorials</a></li></ul></li><li class=''><a href='/lodging/'>Lodging</a></li><li class=''><a href='/dining/'>Dining</a></li><li class=' dropdown'><a href='/events/'>Events</a><ul class='dropdown-menu'><li class=''><a href='/events/'>Events Calendar</a></li><li class=''><a href='/wedding-planning/'>Wedding Planning</a></li><li class=''><a href='/wedding-venues/'>Wedding Venues</a></li><li class=''><a href='/wedding-details/'>Wedding Details</a></li></ul></li><li class=' dropdown'><a href='#'>Media</a><ul class='dropdown-menu'><li class=''><a href='/blog/'>Blog</a></li><li class=''><a href='/press-kit/'>Press Kit</a></li><li class=''><a href='/photo-galleries/'>Photo Galleries</a></li><li class=''><a href='/tourism-services/'>Tourism Services</a></li><li class=''><a href='/about-tourism/'>About Tourism</a></li><li class=''><a href='/partners/'>Partners</a></li><li class=''><a href='/contact-us/'>Contact Us</a></li></ul></li><li class=' dropdown'><a href='#'>Your Visit</a><ul class='dropdown-menu'><li class=''><a href='/plan-your-visit/'>Plan Your Visit</a></li><li class=''><a href='/blog/category/suggested-tours/'>Suggested Tours</a></li><li class=''><a href='http://onlyinonslow.netbookhost.com/'>Visitor Guide</a></li></ul></li>			
+								</ul>
+								
+							</div><!-- /.nav-collapse -->			
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+		
+			
+	<section id="four-oh-four">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 col-md-12">
+				    <h1>Page Not Found</h1>
+					<p>Oops! It looks like the page you are looking for was entered incorrectly or no longer exists.</p>
+					<p>Please use the navigation above to find what you're looking for.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	
+		<div id="push"></div>
+	</div> <!-- eo #main -->
+
+<footer>
+	<div class="container">
+    	<div class="row">
+			<div class="col-sm-3 col-md-3">
+				<a href="/"><img src="/images/layout/footer-logo.png" /></a>
+			</div>
+			<div class="col-sm-3 col-md-3">
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/privacy-policy/">Privacy Policy</a></li>
+					<li><a href="/partners/">Tourism Partners</a></li>
+					<li><a href="/contact-us/">Contact Us</a></li>
+				</ul>
+			</div>
+			<div class="col-sm-3 col-md-3">
+				<ul>
+					<li><a href="/plan-your-visit/">Plan Your Visit</a></li>
+					<li><a href="http://ot.clientwebdev.com/blog/category/suggested-tours/">Suggested Tours</a></li>
+					<li><a href="/wedding-planning/">Wedding Planning</a></li>
+					<li><a href="/press-kit/">Media &amp; Press</a></li>
+				</ul>
+		  </div>
+			<div class="col-sm-3 col-md-3">
+				<ul>
+					<li><a href="https://www.facebook.com/OnslowCountyTourism" target="_blank"><img src="/images/layout/facebook-icon.png" /></a></li>
+					<li><a href="https://twitter.com/Onslow_Tourism" target="_blank"><img src="/images/layout/twitter-icon.png" /></a></li>
+					<li><a href="https://instagram.com/onlyinonslow/" target="_blank"><img src="/images/layout/instagram-icon.png" /></a></li>
+					<li><a href="http://pinterest.com/source/onslowcountytourism.com/" target="_blank"><img src="/images/layout/pinterest-icon.png" /></a></li>
+					<li><a href="http://www.youtube.com/user/onslowcountytourism" target="_blank"><img src="/images/layout/youtube-icon.png" /></a></li>
+				</ul>
+				<p>&copy;2016 Onslow County Tourism - All Rights Reserved</p>
+			</div>
+		</div>
+	</div>
+</footer>
+
+</body>
+</html>

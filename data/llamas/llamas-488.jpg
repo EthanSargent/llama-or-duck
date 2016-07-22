@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+<head>
+<title>The University of Wales, Aberystwyth Users Site</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta name="author" content="UWA Web Team" />
+<meta name="icbm" content="52.416623, -4.066573" />
+<meta name="dc.title" content="The University of Wales, Aberystwyth Users Site" />
+<link rel="stylesheet" href="http://users.aber.ac.uk/styles/new.css" type="text/css" />
+
+</head>
+<body> 
+<!-- Start of Header --> 
+<div id="topstrip"> <a href="http://www.aber.ac.uk"><img src="http://users.aber.ac.uk/resources/logo.gif" class="uwa-logo" alt="University of Wales, Aberystwyth logo linking to the home page"/></a> 
+  <h1><a name="top" id="top"></a><a href="http://users.aber.ac.uk/en/">users.aber.ac.uk</a></h1> 
+  </div> 
+<!-- End of Header --> 
+<div class="banner-area"> </div> 
+<div class="content"> 
+<h2>Gwall 404 / Error 404</h2>
+  <div id="left-col" lang="cy" xml:lang="cy"> 
+      <h3>Yn anffodus nid yw'r dudalen ar gael</h3> 
+    <p>Gall y pwyntiau canlynol egluro pam:</p> 
+    <ul> 
+      <li>A yw'r cyfeiriad wedi ei deipio'n gywir? Gwnewch yn sicr nad oes camgymeriadau sillafu. </li> 
+      <li>Ail-lwythwch y dudalen. Gallai fod problem dros-dro gyda'r gweinydd neu gyda'ch ISP.</li> 
+      <li>Efallai fod y ddogfen wedi ei symud, ei dileu neu nad yw ar gael dros-dro.</li> 
+      <li>Efallai ei fod yn hen gyswllt.</li> 
+    </ul> 
+    <p>Os dilynoch gyswllt nad oedd yn gweithio ar dudalennau'r Brifysgol, neu am gymorth pellach, anfonwch ebost i <a href="mailto:www@aber.ac.uk">D&icirc;m y W&ecirc;</a>. </p> 
+    <p>Dilynwch y <a href="javascript:history.back(1)">cyswllt hwn</a> neu defnyddiwch N&ocirc;l ar eich porwr er mwyn dychwelyd i'r dudalen flaenorol. </p> 
+	<form class="quick-search-error" action="/cy/search.php" method="get" >
+				<div>
+				<label for="users_search">
+					<strong>Chwilio holl dudalennau P.C.A:</strong>
+				</label>
+				<input class="search" type="text" id="users_search" name="q" value=" Chwilio'r Wefan" onfocus="this.value='';" />
+				
+				<input name="Submit" value="Ewch" type="submit" class="go" />
+				<input type="hidden" name="l" value="en" />
+				<input type="hidden" name="s" value="all" />
+				</div>
+			</form>
+			<p class="after-error">&#169; 2007 Prifysgol Cymru, Aberystwyth</p>
+
+  </div> 
+  <div id="right-col" > 
+    <h3>Sorry the page you requested is not available</h3> 
+    <p>The points below might explain why:</p> 
+    <ul> 
+      <li>The URL may have been typed in incorrectly. - <strong>Please check for possible spelling errors.</strong></li> 
+      <li>Retry the page as there may have been a problem with the server or with your ISP.</li> 
+      <li>The page may have moved, been removed or may be temporarily unavailable.</li> 
+      <li>The link you followed may be out of date.</li> 
+    </ul> 
+    <p>If you followed a broken link on a web page belonging to the University, or if you require further assistance please contact the <a href="mailto:www@aber.ac.uk">Web Team</a>. </p> 
+    <p>Follow <a href="javascript:history.back(1)">this link</a> or use the back facility on your browser to return to the previous page. </p> 
+	<form class="quick-search-error" action="/en/search.php" method="get" >
+				<div>
+				<label for="users_search">
+					<strong>Search all U.W.A Web pages:</strong>
+				</label>
+				
+				<input class="search" type="text" id="users_search" name="q" value=" Search the Site" onfocus="this.value='';"/>
+				<input name="Submit" value="Go" type="submit" class="go" />
+				<input type="hidden" name="l" value="en" />
+				<input type="hidden" name="s" value="all" />
+				</div>
+			</form>
+			<p class="after-error">&#169; 2007 University of Wales Aberystwyth</p>
+  </div> 
+ 
+</div> 
+<!-- Start of Footer --> 
+<div id="footer-main">  </div> 
+<!-- End of Footer --> 
+</body>
+</html>

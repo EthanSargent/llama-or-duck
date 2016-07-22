@@ -1,0 +1,47 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    
+  <title>Squarespace - Website Expired</title>
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+  <script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/common-56737e327d71e2ba3623-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/common-bed09be4957fb94cd00a7b1fb038dcca-min.css"/>
+  <script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/dialog-5fe209a2337d34a346ca-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/dialog-be200ed7f5c57483743a18984283b649-min.css"/>
+  <script crossorigin="anonymous" src="//static.squarespace.com/universal/scripts-compressed/system-page-8ec3fe818ccb23eaa35a-min.js"></script><link rel="stylesheet" type="text/css" href="//static.squarespace.com/universal/styles-compressed/system-page-ba97a490865b02d8224259690b88e5fb-min.css"/>
+
+  <script>
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+	
+      Y.on("domready", function() {
+      
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class="bigtext"><div class="title">Website Expired</div><div class="description">This account has expired.  If you are the site owner, click below to login.</div><div class="buttons"><input type="button" class="login-button" name="login" value="Owner Login"/></div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+        lb.getContentEl().on("click", function(e) {
+          if (e.target.ancestor(".login-button", true)) {
+            document.location.href = '/config/';
+          }
+        });
+        
+      });
+          
+    }); 
+
+  </script> 
+
+
+</head>
+<body class="squarespace-config squarespace-system-page">
+
+  <div class="minimal-logo">&nbsp;</div>
+
+</body>
+</html>

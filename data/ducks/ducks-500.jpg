@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+	<head>
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<title>Schouwen-Duiveland</title>
+
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<!--persistent-->
+		<link rel="stylesheet" type="text/css" media="all" href="/styles/Schouwen Duiveland/content.css.jsp?colors=" />
+		<link rel="stylesheet" type="text/css" media="all" href="/styles/Schouwen Duiveland/stylesheets.css.jsp?colors=" />
+		<link rel="stylesheet" type="text/css" media="all" href="/styles/Schouwen Duiveland/pdc.css.jsp?colors=" />
+		<!--[if lt IE 7.0]><link rel="stylesheet" type="text/css" media="all" href="/styles/Schouwen Duiveland/ie6.css" /><![endif]-->
+		<!--[if IE 7.0]><link rel="stylesheet" type="text/css" media="all" href="/styles/Schouwen Duiveland/ie7.css" /><![endif]-->
+		<link rel="stylesheet" type="text/css" media="print" href="/styles/Schouwen Duiveland/print.css" />
+		<!-- preferred -->
+		<link rel="stylesheet" type="text/css" media="screen" href="/styles/Schouwen Duiveland/preferred.css" title="Standaard" />
+		<!--alternate-->
+		<link rel="alternate stylesheet" type="text/css" media="screen" href="/styles/Schouwen Duiveland/bigger.css" title="Grote letters" />
+	</head>
+	<body id="page_404">
+		<div class="page_404">
+			<h1>Pagina niet gevonden</h1>
+				<p>Helaas, de door u opgevraagde pagina is niet gevonden. Deze kan zijn verplaatst of is niet langer beschikbaar.</p>
+			<h2>Probeer &eacute;&eacute;n van de volgende opties:</h2>
+			<ul>
+				<li>Controleer het internetadres in de adresbalk</li>
+				<li>Ga direct naar:
+					<ul>
+						<li><a href="/index.jsp">de Homepage</a></li>
+						<li><a href="/sitemap.jsp">de Sitemap</a></li>
+					</ul>
+				</li>
+				<li>Of voer uw zoektermen hier direct in:
+					<form method="post" action="/searchresults.jsp" class="kort">
+						<p>
+							<input type="hidden" name="dateformat" value="dd-MM-yyyy" />
+							<input type="hidden" name="searchbase" value="0" />
+							<input type="hidden" name="searchrange" value="10" />
+							<input type="hidden" name="searchpage" value="1" />
+							<input type="hidden" name="nodelocation" value="000000000000" />
+							<label class="label" for="zoekterm">Zoekterm(en):</label>
+							<input class="page404" type="text" id="zoekterm" name="freetext" value="" size="15" title="Type hier uw zoekwoorden" />
+							<button type="submit" id="zoekdirect" name="zoek" title="Start het zoeken" value="Zoek">Zoek</button>
+						</p>
+					</form>
+				</li>
+			</ul>
+		</div>
+		
+	</body>
+</html>

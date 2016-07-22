@@ -1,0 +1,626 @@
+<!doctype html>
+
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:website="http://ogp.me/ns/website" lang="en-US" itemscope itemtype="http://schema.org/WebPage" >
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    
+
+    <!--INCLUDE SQS SCRIPTS, META TAGS AND USER CONTENT FROM THE CODE INJECTION TAB-->
+
+    <!-- This is Squarespace. --><!-- sarah-mathews-p72y -->
+<base href="">
+<meta charset="utf-8" />
+<title>Sunshine Farm Market</title>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+<meta property="og:site_name" content="Sunshine Farm Market"/>
+<meta property="og:title" content="Sunshine Farm Market"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/51f0294be4b015bea5da93d8/t/52b4949ee4b0ddced6149750/1434748556268/?format=1000w"/>
+<meta itemprop="name" content="Sunshine Farm Market"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/51f0294be4b015bea5da93d8/t/52b4949ee4b0ddced6149750/1434748556268/?format=1000w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/51f0294be4b015bea5da93d8/t/52b4949ee4b0ddced6149750/1434748556268/?format=1000w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/51f0294be4b015bea5da93d8/t/52b4949ee4b0ddced6149750/1434748556268/?format=1000w"/>
+<meta name="twitter:title" content="Sunshine Farm Market"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/51f0294be4b015bea5da93d8/t/52b4949ee4b0ddced6149750/1434748556268/?format=1000w"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<script type="text/javascript" src="//use.typekit.net/ik/MygPqbKVhfaX4LFV4lM2T_KfiV0pFY6qAzCKIWq_xktfe76ffFHN4UJLFRbh52jhWD9UZRMk5QsKZQsKw2IujcmyFAsy5QFq5gToiaiaO1Fud1FG-Ao8ZcBkdAuyScl8ifoRdhXCSam0ShyTdcmcjW4ldABk-hmXOcFzdPUDjW4y-fuljWsGZWiDOWMaw1q0SaBujW48Sagyjh90jhNlOfG0ShBkjA6ldABX-emaSku3FD4oO1FUiABkZWF3jAF8OcFzdPJwSY4zpe8ljPu0daZyJ6Tkdho0-AIlihmKH6qJn3IbMg6IJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6qJCMIbMg65JMJ7fbK0MsMMegM6MKG4fJ3gIMMjIPMfH6qJNbtbMs6IJMJ7fbR_2yMgeMS6MKG4fVj5IMIj2KMfH6qJxMtbMs6sJMJ.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Open+Sans:600,400,300,300italic,400italic,600italic,700,700italic,800,800italic"/>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/common-56737e327d71e2ba3623-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//static.squarespace.com/universal/scripts-compressed/commerce-93c5a480ea38584ed7bb-min.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//static.squarespace.com/universal/styles-compressed/commerce-83db6fc0783d850dbf6c02e8b959db47-min.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script type="text/javascript" data-sqs-type="dynamic-assets-loader">(function() {(function(a){function e(b){-1!==b.indexOf(".js")?document.write("<script "+f+'crossorigin="anonymous" src="'+b+'">\x3c/script>'):document.write('<link rel="stylesheet" type="text/css" href="'+b+'" />')}var g=function(){var b=window.location.search,a=b.indexOf("exclude=");return-1<a&&(b=b.substr(a+8).split("&")[0])?b.split(","):[]}(),f;f=window.__beta_flag_should_defer?'defer="defer" ':"";try{if(window.top!=window&&window.top.Squarespace&&window.top.Squarespace.frameAvailable){window.top.Squarespace.frameAvailable(window,
+SQUARESPACE_ROLLUPS);return}}catch(h){console.error(h)}for(var c in a)if(!(-1<g.indexOf(c))){if(a[c].js)for(var d=0;d<a[c].js.length;d++)e(a[c].js[d]);if(a[c].css)for(d=0;d<a[c].css.length;d++)e(a[c].css[d])}})(SQUARESPACE_ROLLUPS);
+})();</script><script type="text/javascript" data-sqs-type="imageloader">(function() {var EXCLUDED_SIZES=function(){var a=window.location.search,b=a.indexOf("exclude_imageloader_sizes=");return-1<b&&(a=a.substr(b+26).split("&")[0])?a.split(",").map(function(a){return parseInt(a,10)}):[]}(),SQUARESPACE_SIZES=[2500,1500,1E3,750,500,300,100].filter(function(a){return-1===EXCLUDED_SIZES.indexOf(a)}),IMAGE_LOADING_CLASS="loading",ImageLoader=new function(){this.load=function(a,b){function c(a,b,d){var c=new Image;c.onload=b;c.onerror=d;c.src=a}a.getDOMNode&&(a=a.getDOMNode());var d=this._getDataFromNode(a,
+b),e=!(!d.dimensions||!d.dimensions.width||!d.dimensions.height),g=d.load+"";if("false"===g)return!1;var h=d.mode;if(e&&("fit"===h||"fill"===h)){h=a.parentNode;if(!h)return console.error("Not doing anything, parentNode not found."),!1;if(!this.refresh(a,b,h))return!1}var n=this._intendToLoad(a,d);if("string"===typeof n&&"viewport"!==g){var m=this.getUrl(n,d),g=a.getAttribute("data-image-resolution");a.getAttribute("src")!==m&&this.isValidResolution(n,g)&&(a.onload=function(){a.className=a.className.replace(IMAGE_LOADING_CLASS,
+" ").trim();a.setAttribute("data-image-resolution",n)},!a.getAttribute("src")&&-1===a.className.indexOf(IMAGE_LOADING_CLASS)&&(a.className+=(a.className?" ":"")+IMAGE_LOADING_CLASS),!a.getAttribute("src")&&e?(a.setAttribute("src",m),d.useBgImage&&(a.parentNode.style.backgroundImage="url("+m+")")):c(m,function(){e?a.setAttribute("src",m):(a.setAttribute("data-image-dimensions",this.width+"x"+this.height),ImageLoader.load(a,b))},function(){a.className=a.className.replace(IMAGE_LOADING_CLASS," ").trim();
+a.setAttribute("src",m)}));return!0}return n};this.refresh=function(a,b,c){a.getDOMNode&&(a=a.getDOMNode());c&&c.getDOMNode&&(c=c.getDOMNode());c=c||a.parentNode;if(!c)return console.error("Not doing anything, parentNode not found."),!1;var d=this._getDataFromNode(a,b),e=c.offsetWidth,g=c.offsetHeight;b=d.mode;if("none"!==b){var h=d.dimensions.width,n=d.dimensions.height,m=h/n,q=e/g;if(d.useBgImage&&"fill"===b&&"backgroundSize"in document.documentElement.style)return a.style.display="none",c.style.backgroundSize=
+"cover",c.style.backgroundPosition=100*d.focalPoint.x+"% "+100*d.focalPoint.y+"%",!0;if(d.fixedRatio)"fill"==b&&q>m||"fit"==b&&q<m?(k=100,l=100*(q/m),r=(100-l)*d.focalPoint.y,p=0):(k=100*(m/q),l=100,r=0,p=(100-k)*d.focalPoint.x),a.style.top=r+"%",a.style.left=p+"%",a.style.width=k+"%",a.style.height=l+"%";else{var f;"fill"===b?f=m>q?g/n:e/h:"fit"===b&&(f=m<q?g/n:e/h);!d.stretch&&"fit"==b&&1<f&&(f=1);var k=Math.ceil(h*f),l=Math.ceil(n*f);if(0===k||0===l)return!1;var p,r;"fill"===b?(p=Math.min(Math.max(e/
+2-k*d.focalPoint.x,e-k),0),r=Math.min(Math.max(g/2-l*d.focalPoint.y,g-l),0)):"fit"===b&&(f=d.fitAlignment,p=f.left?0:f.right?e-k:k<e?(e-k)/2:0,r=f.top?0:f.bottom?g-l:l<g?(g-l)/2:0,"inline"==this._getStyle(a,"display")&&(a.style.fontSize="0px"),this._resetAlt(a,function(){k-=a.offsetHeight-a.clientHeight;l-=a.offsetWidth-a.clientWidth}));a.style.top=Math.ceil(r)+"px";a.style.left=Math.ceil(p)+"px";a.style.width=Math.ceil(k)+"px";a.style.height=Math.ceil(l)+"px"}p=this._getStyle(c,"position");a.style.position=
+"relative"==p?"absolute":"relative";if("fill"==b&&(b=this._getStyle(c,"overflow"),!b||"hidden"!=b))c.style.overflow="hidden";return!0}};this._intendToLoad=function(a,b){function c(c,d){"none"===b.mode&&(a.style.width=null,a.style.height=null);var e=parseFloat(a.getAttribute(c)),f=parseFloat(e);if(!f||isNaN(f))e=h._getStyle(a,c),f=parseFloat(e);if(!f||isNaN(f))e=h._getStyle(a,"max-"+c,"max"+(c.substr(0,1).toUpperCase()+c.substr(1))),f=parseFloat(e);if(0===d||e)switch(h._stringType(e)){case "percentage":d=
+parseInt(e,10)/100*g["offset"+c.substr(0,1).toUpperCase()+c.substr(1)];break;case "number":d=parseInt(e,10)}!f&&0!==d&&!a.getAttribute("src")&&(d=0);return d}b=b||this._getDataFromNode(a);if(!b.source)return!1;var d=a.offsetWidth,e=a.offsetHeight,g=a.parentNode,h=this;this._resetAlt(a,function(){d=c("width",d);e=c("height",e)});0===d&&0===e?(d=b.dimensions.width,e=b.dimensions.height):0===d?d=this.getDimensionForValue("width",e,b):0===e&&(e=this.getDimensionForValue("height",d,b));"viewport"===b.load&&
+(a.style.width=Math.floor(d)+"px",a.style.height=Math.floor(e)+"px");return this.getSquarespaceSize(d,e,b)};this._getDataFromNode=function(a,b){b=b||{};var c={focalPoint:{x:0.5,y:0.5},dimensions:{width:null,height:null},mode:"none",fitAlignment:{center:!0},load:"true",stretch:!0,fixedRatio:!1};if(b.focalPoint)c.focalPoint=b.focalPoint;else{var d=a.getAttribute("data-image-focal-point");if(d&&(d=d.split(","))&&2==d.length)c.focalPoint={x:parseFloat(d[0]),y:parseFloat(d[1])}}if(b.dimensions)c.dimensions=
+b.dimensions;else if((d=a.getAttribute("data-image-dimensions"))&&(d=d.split("x"))&&2==d.length)c.dimensions={width:parseInt(d[0],10),height:parseInt(d[1],10)};b.mode?c.mode=b.mode:a.parentNode&&(d=a.parentNode.className,-1!==d.indexOf("content-fill")?c.mode="fill":-1!==d.indexOf("content-fit")&&(c.mode="fit"));if("fit"===c.mode&&a.parentNode&&(d=b.fitAlignment||a.getAttribute("data-alignment")||a.parentNode.getAttribute("data-alignment")))c.fitAlignment={top:-1!==d.indexOf("top"),left:-1!==d.indexOf("left"),
+center:-1!==d.indexOf("center"),right:-1!==d.indexOf("right"),bottom:-1!==d.indexOf("bottom")};b.load?c.load=b.load:(d=a.getAttribute("data-load"))&&(c.load=d);if("undefined"!==typeof b.stretch)c.stretch=b.stretch;else if(d=a.getAttribute("data-image-stretch"))c.stretch="true"===d?!0:!1;c.source=b.source?b.source:a.getAttribute("data-src");if(c.source&&(-1!==c.source.indexOf("squarespace.com")||-1!==c.source.indexOf("squarespace.net"))&&"http:"===c.source.substr(0,5)&&"https"===window.location.protocol.substr(0,
+5))c.source=c.source.replace("http://","https://");if(b.fixedRatio)c.fixedRatio=b.fixedRatio;else if(d=a.getAttribute("data-fixed-ratio"))c.fixedRatio="true"==d;b.useBgImage?c.useBgImage=b.useBgImage:(d=a.getAttribute("data-use-bg-image"),c.useBgImage="true"===d||!0===d?!0:!1);return c};this._stringType=function(a){return"string"===typeof a&&-1!==a.indexOf("%")?"percentage":isNaN(parseInt(a,10))?NaN:"number"};this._getStyle=function(a,b,c){var d;a.currentStyle?d=a.currentStyle[c||b]:window.getComputedStyle&&
+(d=document.defaultView.getComputedStyle(a,null).getPropertyValue(b));return d};this._isVisible=function(a){a=a.getBoundingClientRect();return 0<=a.left&&0<=a.top||0<=a.bottom&&0<=a.right||0<=a.left&&0<=a.bottom||0<=a.right&&0<=a.top};this.getSquarespaceSize=function(a,b,c){a=Math.max(b/(c.dimensions.height/c.dimensions.width),a);"undefined"===typeof app&&"number"===typeof window.devicePixelRatio&&(a*=window.devicePixelRatio);for(b=1;b<SQUARESPACE_SIZES.length&&!(a>SQUARESPACE_SIZES[b]);b++);return SQUARESPACE_SIZES[b-
+1]+"w"};this.getDimensionForValue=function(a,b,c){var d=c.dimensions.width;c=c.dimensions.height;return"width"==a?d/c*b:"height"==a?c/d*b:NaN};this.getUrl=function(a,b){var c=b.source;return a&&("/"==c[0]||-1!=c.indexOf("squarespace.com")||-1!=c.indexOf("squarespace.net"))?(-1===c.indexOf("format="+a)&&(c=c+(-1!==c.indexOf("?")?"&":"?")+"format="+a),c):b.source};this.isValidResolution=function(a,b){a=parseInt(a,10);b=parseInt(b,10);return isNaN(a)||isNaN(b)?!0:a>b};this._resetAlt=function(a,b){var c=
+a.getAttribute("alt"),d=c&&0<c.length&&!a.getAttribute("src");if(d){var e=a.style.display;a.removeAttribute("alt");a.style.display="none";a.offsetHeight+0;a.style.display=e}b.call(this);d&&a.setAttribute("alt",c)};this.bootstrap=function(){var a=document.images;if(0<a.length)for(var b=0,c=a.length;b<c;b++)((a[b].hasAttribute?a[b].hasAttribute("data-image"):a[b].attributes["data-image"])||(a[b].hasAttribute?a[b].hasAttribute("data-src"):a[b].attributes["data-src"]))&&"false"!==(a[b].getAttribute?a[b].getAttribute("data-load"):
+a[b].attributes["data-load"])+""&&ImageLoader.load(a[b])}};window.ImageLoader=ImageLoader;window.YUI&&YUI.add("squarespace-imageloader",function(a){},"MY FATHER WAS A ROBOT, BUT HIS FATHER WAS A HUMAN",{requires:[]});
+})();</script>
+<script>Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","rollups":{"squarespace-announcement-bar":{"css":"//static.squarespace.com/universal/styles-compressed/announcement-bar-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/announcement-bar-c2dcb42376a94840389d-min.js"},"squarespace-audio-player":{"css":"//static.squarespace.com/universal/styles-compressed/audio-player-76e4bfcc3f9830beb388bae2002fbe6c-min.css","js":"//static.squarespace.com/universal/scripts-compressed/audio-player-45db28dea10ad9697e6b-min.js"},"squarespace-blog-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/blog-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/blog-collection-list-932fbcbb458e81e9ca22-min.js"},"squarespace-calendar-block-renderer":{"css":"//static.squarespace.com/universal/styles-compressed/calendar-block-renderer-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/calendar-block-renderer-13648006f6ff4edf5e12-min.js"},"squarespace-chartjs-helpers":{"css":"//static.squarespace.com/universal/styles-compressed/chartjs-helpers-9935a41d63cf08ca108505d288c1712e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/chartjs-helpers-96e4741b705401f7eb8e-min.js"},"squarespace-comments":{"css":"//static.squarespace.com/universal/styles-compressed/comments-45d37f42f52b197cf397e3b95c6b8328-min.css","js":"//static.squarespace.com/universal/scripts-compressed/comments-172c7eadff60a9ef8e8e-min.js"},"squarespace-dialog":{"css":"//static.squarespace.com/universal/styles-compressed/dialog-be200ed7f5c57483743a18984283b649-min.css","js":"//static.squarespace.com/universal/scripts-compressed/dialog-5fe209a2337d34a346ca-min.js"},"squarespace-events-collection":{"css":"//static.squarespace.com/universal/styles-compressed/events-collection-edb9ea58c015fca447b97a2948a5c589-min.css","js":"//static.squarespace.com/universal/scripts-compressed/events-collection-53f86a70eece613a3632-min.js"},"squarespace-gallery-collection-list":{"css":"//static.squarespace.com/universal/styles-compressed/gallery-collection-list-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/gallery-collection-list-57bf49721ba781c6ae48-min.js"},"squarespace-image-zoom":{"css":"//static.squarespace.com/universal/styles-compressed/image-zoom-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/image-zoom-b54fe984634c0eaf7c44-min.js"},"squarespace-pinterest":{"css":"//static.squarespace.com/universal/styles-compressed/pinterest-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/pinterest-756082302681196c81b2-min.js"},"squarespace-product-quick-view":{"css":"//static.squarespace.com/universal/styles-compressed/product-quick-view-eb4b900ac0155bed2f175aa82e2a7c17-min.css","js":"//static.squarespace.com/universal/scripts-compressed/product-quick-view-2b256fd948ced47dfbe3-min.js"},"squarespace-products-collection-item-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-item-v2-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-item-v2-e21edf3d271975ff0092-min.js"},"squarespace-products-collection-list-v2":{"css":"//static.squarespace.com/universal/styles-compressed/products-collection-list-v2-ae974921915aeccaff8ad60c60e19c31-min.css","js":"//static.squarespace.com/universal/scripts-compressed/products-collection-list-v2-f20e7adcac2589c8234a-min.js"},"squarespace-search-page":{"css":"//static.squarespace.com/universal/styles-compressed/search-page-9e3daa07ec7490c2f0be98a39351cb63-min.css","js":"//static.squarespace.com/universal/scripts-compressed/search-page-7cab0929cbe322c64d97-min.js"},"squarespace-share-buttons":{"js":"//static.squarespace.com/universal/scripts-compressed/share-buttons-6b7a9ebec6b2bab89a5e-min.js"},"squarespace-simple-liking":{"css":"//static.squarespace.com/universal/styles-compressed/simple-liking-09fa291ec2800c97714f0d157fd0a6ca-min.css","js":"//static.squarespace.com/universal/scripts-compressed/simple-liking-0cd83a766bea98fa884c-min.js"},"squarespace-social-buttons":{"css":"//static.squarespace.com/universal/styles-compressed/social-buttons-7a696232d1cd101fd62b5f174f9ae6ff-min.css","js":"//static.squarespace.com/universal/scripts-compressed/social-buttons-8b06f9355daa04e99884-min.js"},"squarespace-tourdates":{"css":"//static.squarespace.com/universal/styles-compressed/tourdates-d41d8cd98f00b204e9800998ecf8427e-min.css","js":"//static.squarespace.com/universal/scripts-compressed/tourdates-1775ea0b018c92338b43-min.js"}},"pageType":100,"website":{"id":"51f0294be4b015bea5da93d8","identifier":"sarah-mathews-p72y","websiteType":1,"contentModifiedOn":1434748556268,"cloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-25200000,"timeZoneOffset":-25200000,"timeZoneAbbr":"PDT","siteTitle":"Sunshine Farm Market","siteTagLine":"Fresh produce, specialty foods & gifts for the Lake Chelan Valley and beyond","siteDescription":"","location":{"mapZoom":16.0,"mapLat":47.838769550940434,"mapLng":-120.09325823123777,"markerLat":47.838769550940434,"markerLng":-120.09325823123777,"addressTitle":"Sunshine Farm Market","addressLine1":"US-97 Alt","addressLine2":"Chelan, WA, 98816","addressCountry":"United States"},"logoImageId":"52b4949ee4b0ddced6149750","shareButtonOptions":{"7":true,"4":true,"8":true,"3":true,"2":true,"1":true,"6":true,"5":true},"logoImageUrl":"//static1.squarespace.com/static/51f0294be4b015bea5da93d8/t/52b4949ee4b0ddced6149750/1434748556268/","authenticUrl":"http://www.sunshinefarmmarket.com","internalUrl":"http://sarah-mathews-p72y.squarespace.com","baseUrl":"http://www.sunshinefarmmarket.com","primaryDomain":"www.sunshinefarmmarket.com","socialAccounts":[{"serviceId":20,"userId":"info@sunshinefarmmarket.com","screenname":"info@sunshinefarmmarket.com","addedOn":1386172731892,"profileUrl":"mailto:info@sunshinefarmmarket.com","iconEnabled":true,"serviceName":"email"},{"serviceId":2,"userId":"100000041281152","userName":"rachelevanschelan","screenname":"Rachel Evans","addedOn":1386172752073,"profileUrl":"https://www.facebook.com/thesunshinefarm","iconUrl":"http://graph.facebook.com/100000041281152/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":2,"userId":"100000041281152","userName":"rachelevanschelan","screenname":"Rachel Evans","addedOn":1386172763844,"profileUrl":"http://www.facebook.com/100000041281152","iconUrl":"http://graph.facebook.com/100000041281152/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":2,"userId":"100000041281152","userName":"rachelevanschelan","screenname":"Rachel Evans","addedOn":1386437082618,"profileUrl":"http://www.facebook.com/100000041281152","iconUrl":"http://graph.facebook.com/100000041281152/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":2,"userId":"100000041281152","userName":"rachelevanschelan","screenname":"Rachel Evans","addedOn":1386437209780,"profileUrl":"http://www.facebook.com/100000041281152","iconUrl":"http://graph.facebook.com/100000041281152/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":20,"userId":"rachel@sunshinefarmmarket.com","screenname":"rachel@sunshinefarmmarket.com","addedOn":1383954758526,"profileUrl":"mailto:rachel@sunshinefarmmarket.com","iconEnabled":true,"serviceName":"email"}],"typekitId":"","statsMigrated":true,"imageMetadataProcessingEnabled":false},"websiteSettings":{"id":"51f0294be4b015bea5da93d9","websiteId":"51f0294be4b015bea5da93d8","type":"Business","subject":"Retail","subjects":[{"systemSubject":"food"},{"systemSubject":"other","otherSubject":"Retail"}],"country":"US","state":"WA","markdownMode":false,"simpleLikingEnabled":true,"lastAgreedTermsOfService":2,"defaultPostFormat":"%y/%m/%d/%t","commentLikesAllowed":false,"commentAnonAllowed":false,"commentThreaded":false,"commentApprovalRequired":false,"commentAvatarsOn":false,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":false,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","homepageTitleFormat":"%s","collectionTitleFormat":"%c \u2014 %s","itemTitleFormat":"%i \u2014 %s","commentsEnabled":false,"contactPhoneNumber":"(509)682-1350","contactEmail":"info@sunshinefarmmarket.com","allowSquarespacePromotion":true,"storeSettings":{"returnPolicy":"<p><span style=\"font-size:13px\">Please contact Sarah at sarah@sunshinefarmmarket.com regarding any returns and we will do our best to accommodate your situation.&nbsp; Damaged items will be fully refunded.</span></p>","termsOfService":"<p><span style=\"font-size:13px\">Your order will be processed within 24 hours and shipped on Monday or Friday, whichever comes first. We ship our items USPS Standard which takes about 2-8 days within the US.&nbsp; If for any reason you need expedited shipping, please contact us for a quote</span></p><p>We accept all major Credit Cards or Paypal. Shipping &amp; Handling will be calculated at checkout.</p><p>\u00A0</p>","privacyPolicy":"<p>We will not give out your credit card number, contact information, or purchase history without your consent.</p>","paymentSettings":{"stripeLivePublicApiKey":"pk_live_lgbcFYy6sgL8D3LvmoRqsSPE","stripeTestPublicApiKey":"pk_test_V0hQSqdxwkYc6oOWZxrf9vRS"},"expressCheckout":false,"useLightCart":false,"showNoteField":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","stripePublishableKey":"pk_live_lgbcFYy6sgL8D3LvmoRqsSPE","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"testPublishableKey":"pk_test_V0hQSqdxwkYc6oOWZxrf9vRS","stripeConnected":true,"isLive":true,"storeState":1},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"ampEnabled":false},"websiteCloneable":false,"subscribed":false,"appDomain":"squarespace.com","secureDomain":"https://sarah-mathews-p72y.squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","bannerImageHeight":"302px","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","product-gallery-auto-crop":"true","product-image-auto-crop":"true"},"templateId":"5093f261e4b0979eac7cb299","pageFeatures":[1,4],"impersonatedSession":false,"isFacebookTab":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}}};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><!--[if gte IE 9]> <link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&part=4"/><![endif]-->
+<!--[if lt IE 9]><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&noMedia=true&part=1"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&noMedia=true&part=2"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&noMedia=true&part=3"/><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false&noMedia=true&part=4"/><![endif]-->
+<!--[if !IE]> --><link rel="stylesheet" type="text/css" href="//static1.squarespace.com/static/sitecss/51f0294be4b015bea5da93d8/230/5093f261e4b0979eac7cb299/51f31234e4b08b0bde08e251/3261-05142015/1434748556266/site.css?&filterFeatures=false"/><!-- <![endif]-->
+<!-- End of Squarespace Headers -->
+    <script type="text/javascript" src="https://static1.squarespace.com/static/ta/5093f258e4b0979eac7cb197/3261/scripts/combo/?site-bundle.js"></script>
+
+  </head>
+  
+  <body id="not-found" class="site-drop-shadow  header-icons header-dropdown-contact-or-location-search   title-decoration-none  blog-text-width-false     event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square button-style-default button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd not-found-page mobile-style-available logo-image has-location has-phone-number has-email">
+
+    <div class="contact-wrapper">
+      <div class="contact-inner-wrapper">
+        <div class="sqs-layout sqs-grid-12 columns-12 sqs-locked-layout" data-layout-label="Header Contact Info Block" data-type="block-field" data-updated-on="1386088315979" id="contactBlock"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-03cad3e113ff64034a2f"><div class="sqs-block-content"><h3>contact us</h3><p>Questions? &nbsp;Comments? &nbsp;We'd love to hear from you!</p><p>When you email us, we will automatically add you to our email list, unless you let us know that you would rather not subscribe.</p><p>&nbsp;</p></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-ea3f4234bcb38e0cc612"><div class="sqs-block-content">
+
+<div class="form-wrapper">
+
+  
+
+  
+
+    <div class="form-inner-wrapper">
+
+      <form autocomplete="on" action="https://sarah-mathews-p72y.squarespace.com" method="POST" onsubmit="return (function(form) { Y.use
+      ('squarespace-form-submit', 'node',
+      function (Y) { (new Y.Squarespace.FormSubmit({ formNode: Y.Node(form) })).submit('51f31235e4b098110aeeb388', '', 'contactBlock') }); return false;})(this)">
+
+        
+
+          <div class="field-list clear">
+
+          
+
+              
+
+              
+
+              
+
+              
+
+              
+                <div id="email2" class="form-item field email required">
+                  <label class="title" for="email2-field">Email Address <span class="required">*</span></label>
+                  
+                  <input class="field-element" name="email" x-autocompletetype="email" type="text" spellcheck="false" id="email2-field" />
+                </div>
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+          
+
+              
+
+              
+
+              
+
+              
+                <div id="textarea1" class="form-item field textarea required">
+                  <label class="title" for="textarea1-field">Message <span class="required">*</span></label>
+                  
+                  <textarea class="field-element " id="textarea1-field" ></textarea>
+                </div>
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+              
+
+          
+
+          </div>
+
+        
+
+        
+        <div class="form-button-wrapper">
+          <input class="button sqs-system-button sqs-editable-button" type="submit" value="Submit"/>
+        </div>
+        
+
+        <div class="hidden form-submission-text">Thank you!</div>
+
+        <div class="hidden form-submission-html" data-submission-html=""></div>
+      </form>
+
+    </div>
+
+  
+
+</div>
+</div></div></div></div></div>
+      </div>
+    </div>
+
+    <div id="contactInfo">
+      <div class="contact-inner-wrapper contact-info-inner-wrapper">
+
+        <div class="map-image"><a href="//maps.google.com/maps?q=47.838769550940434,-120.09325823123777" target="_blank" title="View map in new window"><img src="//maps.googleapis.com/maps/api/staticmap?markers=47.838769550940434,-120.09325823123777&size=400x250&scale=2&zoom=16.0&sensor=false"></a></div>
+
+        <div class="address-phone-email">
+            
+                <p class="site-location">
+                  <span>US-97 Alt</span><br>
+                  <span>Chelan, WA, 98816</span><br>
+                  <span>United States</span>
+                </p>
+            
+            
+              <p class="phone">(509)682-1350</p>
+              <p class="email"><a href="mailto:info@sunshinefarmmarket.com">info@sunshinefarmmarket.com</a></p>
+            
+            
+              
+            
+            </div>
+
+      </div>
+    </div>
+    <nav id="mobile-navigation" class="mobile-nav">
+      <!--MOBILE-->
+
+  <div class="nav-wrapper" data-content-field="navigation-mobileNav">
+    <ul>
+      
+        
+
+              
+                <li class=""><a href="/">Home</a></li>
+              
+
+              
+
+            
+          
+      
+        
+
+              
+                <li class=""><a href="/whats-fresh/">What's Fresh</a></li>
+              
+
+              
+
+            
+          
+      
+        
+          <li class="folder">
+
+              <!--FOLDER-->
+
+              <div class="folder-parent">
+                <a>About Us</a>
+                <div class="folder-child-wrapper">
+                  <ul class="folder-child">
+
+                    
+
+                      
+                        <li class="">
+                          <a href="/cider/">
+                            U-Press Cider
+                          </a>
+                        </li>
+                      
+
+                      
+                    
+
+                      
+                        <li class="">
+                          <a href="/the-market/">
+                            The Market
+                          </a>
+                        </li>
+                      
+
+                      
+                    
+
+                      
+                        <li class="">
+                          <a href="/the-goats/">
+                            The Goats
+                          </a>
+                        </li>
+                      
+
+                      
+                    
+
+                  </ul>
+                </div>
+              </div>
+            </li>
+            
+          
+      
+        
+          <li class="folder">
+
+              <!--FOLDER-->
+
+              <div class="folder-parent">
+                <a>Contact</a>
+                <div class="folder-child-wrapper">
+                  <ul class="folder-child">
+
+                    
+
+                      
+                        <li class="">
+                          <a href="/contact-info/">
+                            Contact Info
+                          </a>
+                        </li>
+                      
+
+                      
+                    
+
+                      
+                        <li class="">
+                          <a href="/hours/">
+                            Hours
+                          </a>
+                        </li>
+                      
+
+                      
+                    
+
+                      
+                        <li class="">
+                          <a href="/directions/">
+                            Directions
+                          </a>
+                        </li>
+                      
+
+                      
+                    
+
+                  </ul>
+                </div>
+              </div>
+            </li>
+            
+          
+      
+    </ul>
+  </div>
+
+    </nav>
+    <div class="opacity-overlay"></div>
+    <div class="outer-wrapper">
+      <div class="wrapper cf">
+        <div id="mobile-header">
+          <a class="icon-menu" id="mobileMenu"></a><!-- comment the space between elements because science
+          --><div class="site-title-wrapper">
+            <h1 data-content-field="site-title" class="site-title">
+              <a href="/" class="home-link">Sunshine Farm Market</a>
+            </h1>
+          </div><!-- comment the space between elements because science
+          --><div class="info-email-wrapper">
+            <a id="info-mobile" class="icon-info"><span class="icon-text">Info</span></a>
+            <div id="email-mobile">
+              <a class="icon-email"><span class="icon-text">Email</span></a>
+            </div>
+            <div id="search-mobile">
+              <a class="icon-search" href="/search" data-source="template"><span class="icon-text">Search</span></a>
+            </div>
+          </div>
+        </div>
+        <header id="header">
+
+          <!--MAIN NAVIGATION-->
+          <nav id="main-navigation" class="main-nav">
+            <div class="info-title-email-wrapper">
+
+              <a class="icon-menu" id="desktopMenu"><span class="icon-text">Menu</span></a>
+
+              
+              <div class="site-title-wrapper">
+                <h1 data-content-field="site-title" class="site-title">
+                    
+                     <div class="logo-wrapper"><a href="/" class="home-link"><img src="//static1.squarespace.com/static/51f0294be4b015bea5da93d8/t/52b4949ee4b0ddced6149750/1434748556268/?format=1500w" alt="Sunshine Farm Market" class="logo" /></a></div>
+                     <div class="logo-image-title"><a href="/" class="home-link">Sunshine Farm Market</a></div>
+                    
+                </h1>
+              </div>
+              
+
+              <a id="info" class="icon-info"><span class="icon-text">Info</span></a>
+              <div id="email">
+                <a class="icon-email"><span class="icon-text">Email</span></a>
+              </div>
+              <div id="headerSearch">
+                <a class="icon-search" href="/search" data-source="template"><span class="icon-text">Search</span></a>
+              </div>
+            </div>
+
+            
+  <div class="nav-wrapper" data-content-field="navigation-mainNav">
+    <ul class="cf">
+    
+      
+
+            
+              <li class=""><a href="/">Home</a></li>
+            
+
+            
+
+          
+        
+    
+      
+
+            
+              <li class=""><a href="/whats-fresh/">What's Fresh</a></li>
+            
+
+            
+
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">About Us</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/cider/">
+                          U-Press Cider
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/the-market/">
+                          The Market
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/the-goats/">
+                          The Goats
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+      
+        <li class="folder">
+
+            <!--FOLDER-->
+
+            <div class="folder-parent">
+              <a aria-haspopup="true">Contact</a>
+              <div class="folder-child-wrapper">
+                <ul class="folder-child">
+
+                  
+
+                    
+                      <li class="">
+                        <a href="/contact-info/">
+                          Contact Info
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/hours/">
+                          Hours
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                    
+                      <li class="">
+                        <a href="/directions/">
+                          Directions
+                        </a>
+                      </li>
+                    
+
+                    
+                  
+
+                </ul>
+              </div>
+            </div>
+          </li>
+          
+        
+    
+  </ul>
+  </div>
+
+
+          </nav>
+        </header>
+
+        <!--CONTENT INJECTION POINT-->
+
+        <section id="content">
+          
+            
+        
+        
+
+        
+
+        <div class="content-inner-wrapper">
+          
+            <div class="main-content-wrapper" data-content-field="main-content" data-collection-id="" data-edit-main-image="Banner">
+              <p>We couldn't find the page you were looking for. This is either because:</p><ul><li>There is an error in the URL entered into your web browser. Please check the URL and try again.</li><li>The page you are looking for has been moved or deleted.</li></ul><p>You can return to our homepage by <a href="/">clicking here</a>, or you can try searching for the content you are seeking by <a href="javascript:Y.Squarespace.Singletons.Search.show();">clicking here</a>.</p>
+            </div>
+        </div>
+        </section>
+      </div> <!-- end .wrapper -->
+
+      
+<div class="footer-nav">
+  <nav id="footer-navigation" class="" data-content-field="navigation-footer-navigation">
+  <div class="nav">
+    <ul class="cf">
+    
+      
+
+            
+              <li class=""><a href="/join-our-email-list/">Join Our Email List</a></li>
+            
+
+            
+
+          
+        
+    
+  </ul>
+  </div>
+</nav>
+</div>
+  <script>
+    Y.use('node', function() {
+      Y.on('domready', function() {
+        if(('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch) {
+        var move = false;
+        Y.all('.folder-child a').each(function(a) {
+          a.on('touchmove', function()
+          { move = true; }
+          );
+          a.on('touchend', function() {
+            if (move === false)
+            { window.location = a.getAttribute('href'); }
+          });
+        });
+        }
+      });
+    });
+  </script>
+
+
+      <footer id="footer" class="cf">
+        <div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Left Footer Content" data-type="block-field" data-updated-on="1386876999351" id="footerBlockLeft"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-block sqs-block-socialaccountlinks" data-block-type="48" id="block-6622946e742d2211c603"><div class="sqs-block-content"><nav class="sqs-svg-icon--list social-icon-alignment-left social-icons-color-black social-icons-size-medium social-icons-shape-circle social-icons-style-knockout"><a href="mailto:info@sunshinefarmmarket.com" target="_blank" class="sqs-svg-icon--wrapper email" style=""><div><svg class="sqs-svg-icon--social" viewBox="0 0 64 64"><use class="sqs-use--background" xlink:href="/universal/svg/social-accounts.svg#background"></use><use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#email-icon"></use><use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#email-mask"></use></svg></div></a><a href="https://www.facebook.com/thesunshinefarm" target="_blank" class="sqs-svg-icon--wrapper facebook" style=""><div><svg class="sqs-svg-icon--social" viewBox="0 0 64 64"><use class="sqs-use--background" xlink:href="/universal/svg/social-accounts.svg#background"></use><use class="sqs-use--icon" xlink:href="/universal/svg/social-accounts.svg#facebook-icon"></use><use class="sqs-use--mask" xlink:href="/universal/svg/social-accounts.svg#facebook-mask"></use></svg></div></a></nav></div></div></div></div></div>
+        <div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Right Footer Content" data-type="block-field" data-updated-on="1386907322115" id="footerBlockRight"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-e8ebd0fe5820a119a2e1"><div class="sqs-block-content"><p class="text-align-right">Photos by&nbsp;<a href="http://www.sarahhartboyd.com">Sarah Hart-Boyd Photography</a></p></div></div></div></div></div>
+      </footer>
+    </div> <!-- end .outer-wrapper -->
+
+    <!--INJECTION POINT FOR TRACKING SCRIPTS AND USER CONTENT FROM THE CODE INJECTION TAB-->
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstraper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap(); }})();</script>
+<script>Squarespace.afterBodyLoad(Y);</script>
+
+
+
+  </body>
+
+</html>
