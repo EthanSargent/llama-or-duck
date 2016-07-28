@@ -47,7 +47,6 @@ def cost_grad(nna, images, labels, theta, classes):
 		which_class[Y[i][0], i] = 1
 		# take the L1 norms of the columns
 		softmax_pred_prob[:,i] = np.log(softmax_pred_prob[:,i] / LA.norm(softmax_pred_prob[:,i], 1));
-	if DEBUG: print(np.sum(np.sum(which_class)))
 	assert which_class[5][0] == 1
 
 	# take the transposes so we can traverse over the rows
@@ -66,7 +65,6 @@ def cost_grad(nna, images, labels, theta, classes):
 
 	# make the Kxm matrix of deltas for each example 
 	delta_l_all = which_class - pred_prob
-	size_2D(delta_l_all)
 	# calculate gradients for each training example for the weights in each layer
 	for i in range(m):
 		# Kx1 column vector of deltas for example i
@@ -86,25 +84,46 @@ def cost_grad(nna, images, labels, theta, classes):
 			gradStack[l]['b'] += delta_l1
 
 		a = activations[0][:,i]; a.shape = (len(a),1)
+		# if DEBUG: print("delta_0: ")
+		# print(len(delta_l))
+		# print("a_col:")
+		# print(len(np.transpose(a)))
+
+		if (i == 0):
+			print('delta')
+			print(delta_l)
+			print('activation')
+			print(np.transpose(a))
+			print('result')
+			result = np.dot(delta_l, np.transpose(a))
+			result_sum = np.sum(np.sum(result))
+			print(np.dot(delta_l, np.transpose(a)))
+			print('result sum')
+			print(result_sum)
+
+		# print("shapes")
+		# print(delta_l.shape)
+		# print(np.transpose(a).shape)
 		gradStack[0]['W'] += np.dot(delta_l, np.transpose(a))
 		gradStack[0]['b'] += delta_l
 
+	print("weight adjustment for layer 0")
+	print(gradStack[0]['W'])
+	print("bias adjustment for layer 0")
+	print(gradStack[0]['b'])
 	return ceCost, gradStack
 
 def grad_descent(theta, gradStack, alpha, m):
 	for l in range(len(gradStack)):
 		adj_w = - alpha * (1.0/m * gradStack[l]['W'])
 		adj_b = - alpha * (1.0/m * gradStack[l]['b'])
-		if DEBUG: print("ADJUSTING WEIGHTS FOR LAYER " + str(l) + " BY: ")
-		if DEBUG: print(adj_w)
-		if DEBUG: print("ADJUSTING BIASES FOR LAYER " + str(l) + " BY: ")
-		if DEBUG: print(adj_b)
+		# if DEBUG: print("ADJUSTING WEIGHTS FOR LAYER " + str(l) + " BY: ")
+		# if DEBUG: print(adj_w)
+		# if DEBUG: print("ADJUSTING BIASES FOR LAYER " + str(l) + " BY: ")
+		# if DEBUG: print(adj_b)
 		theta[l]['W'] += adj_w # potentially could add weight regularization
 		theta[l]['b'] += adj_b
 	return theta
-
-def size_2D(array):
-	print(str(len(array)) +  " x " + str(len(array[0])))
 
 def test(nna, images, labels, theta):
 	""" tests the NN architecture given by nna and theta on the images and labels
@@ -139,7 +158,11 @@ def guesses(nna, images, labels, theta):
 	for i in range(m):
 		best_guess_prob = max(a[:,i])
 		guessed_digit = np.where(a[:,i] == best_guess_prob)
-		guess_vec[i] = guessed_digit
+		# break ties arbitrarily
+		if type(guessed_digit) != int:
+			guess_vec[i] = guessed_digit[0][0]
+		else:
+			guess_vec[i] = guessed_digit
 
 	print("Here are a few guesses: ")
 	print(a[:,0])
