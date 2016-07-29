@@ -64,7 +64,7 @@ def cost_grad(nna, images, labels, theta, classes):
 		gradStack[l] = {'W':0,'b':0}
 
 	# make the Kxm matrix of deltas for each example 
-	delta_l_all = which_class - pred_prob
+	delta_l_all = - (which_class - pred_prob)
 	# calculate gradients for each training example for the weights in each layer
 	for i in range(m):
 		# Kx1 column vector of deltas for example i
